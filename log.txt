@@ -113,3 +113,73 @@
 00:24:13.340 INFO  Venue: Chase Center 
 00:24:13.343 INFO  City: San Francisco 
 00:24:13.361 INFO  09/21/2019 
+00:41:56.934 INFO  ===================================================================== 
+00:41:56.937 INFO  user command: concert-this   user arguments: undefined 
+00:41:56.939 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+00:41:57.389 INFO  Venue: Zilker Park 
+00:41:57.391 INFO  City: Austin 
+00:41:57.412 INFO  10/04/2019 
+00:48:46.104 INFO  ===================================================================== 
+00:48:46.105 INFO  user command: concert-this   user arguments: moroon 5 
+00:48:46.106 INFO  https://rest.bandsintown.com/artists/moroon 5/events?app_id=codingbootcamp 
+00:49:00.212 INFO  ===================================================================== 
+00:49:00.214 INFO  user command: concert-this   user arguments: metallica 
+00:49:00.215 INFO  https://rest.bandsintown.com/artists/metallica/events?app_id=codingbootcamp 
+00:49:00.902 INFO  Venue: Optus Stadium 
+00:49:00.903 INFO  City: Burswood 
+00:49:00.917 INFO  10/17/2019 
+00:49:48.381 INFO  ===================================================================== 
+00:49:48.383 INFO  user command: spotify-this-song   user arguments: Thriller 
+00:49:49.077 INFO  Artist: Michael Jackson 
+00:49:49.078 INFO  Song: Thriller 
+00:49:49.079 INFO  URL: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=82dd5f292e934394b2bba406f65b300b 
+00:49:49.079 INFO  Album: Scream 
+00:50:13.152 INFO  ===================================================================== 
+00:50:13.153 INFO  user command: movie-this   user arguments: heat 
+00:50:13.332 INFO  Title: Heat 
+00:50:13.333 INFO  Year: 1995 
+00:50:13.333 INFO  Rated: 8.2 
+00:50:13.334 INFO  Country: USA 
+00:50:13.334 INFO  Language: English, Spanish 
+00:50:13.334 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+00:50:13.335 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+00:50:13.335 INFO  Rotten Tomatoes: 86% 
+00:50:40.685 INFO  ===================================================================== 
+00:50:40.687 INFO  user command: do-what-it-says   user arguments: undefined 
+00:50:40.793 INFO  spotify-this-song 
+00:50:40.794 INFO  "I Want it That Way"
+ 
+00:51:08.010 INFO  ===================================================================== 
+00:51:08.012 INFO  user command: spotify-this-song   user arguments: undefined 
+00:51:08.612 INFO  Artist: Ace of Base 
+00:51:08.613 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
+00:51:08.613 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
+00:51:08.614 INFO  Album: The Sign (US Album) [Remastered] 
+00:51:24.245 INFO  ===================================================================== 
+00:51:24.249 INFO  user command: movie-this   user arguments: undefined 
+00:51:24.434 INFO  Title: Mr. Nobody 
+00:51:24.438 INFO  Year: 2009 
+00:51:24.441 INFO  Rated: 7.8 
+00:51:24.441 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+00:51:24.442 INFO  Language: English, Mohawk 
+00:51:24.443 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+00:51:24.443 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+00:51:24.444 INFO  Rotten Tomatoes: 66% 
+00:51:52.273 INFO  ===================================================================== 
+00:51:52.274 INFO  user command: concert-this   user arguments: undefined 
+00:51:52.275 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+00:51:52.798 INFO  Venue: Zilker Park 
+00:51:52.799 INFO  City: Austin 
+00:51:52.813 INFO  10/04/2019 
+00:52:57.601 INFO  ===================================================================== 
+00:52:57.604 INFO  user command: concert-this   user arguments: undefined 
+00:52:57.617 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+00:52:58.057 INFO  Venue: Zilker Park 
+00:52:58.060 INFO  City: Austin 
+00:52:58.079 INFO  10/04/2019 
+01:42:20.174 INFO  ===================================================================== 
+01:42:20.182 INFO  user command: concert-this   user arguments: janet jackson 
+01:42:20.185 INFO  https://rest.bandsintown.com/artists/janet jackson/events?app_id=codingbootcamp 
+01:42:20.763 INFO  Venue: Chase Center 
+01:42:20.766 INFO  City: San Francisco 
+01:42:20.787 INFO  09/21/2019 
