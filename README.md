@@ -6,19 +6,19 @@ LIRI is used to request data from several APIs based on user input by searching 
 in a JSON format.
 
 LIRI's environment is setup by importing NPM modules and packages:
-dotenv: dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. 
-Command Line: 'npm install dotenv'
+* dotenv: dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. 
+* Command Line: 'npm install dotenv'
 
-Request: - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
-Command Line: 'npm install request'
+* Request: - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+* Command Line: 'npm install request'
 
-Moment: - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-Command Line: 'npm install moment'
+* Moment: - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* Command Line: 'npm install moment'
 
 Fs: - a built in node package
 
-Run command "npm install" in Terminal to pul in NPM modules
-Run command "npm install axios" in Terminal for AXIOS.
+* Run command "npm install" in Terminal to pul in NPM modules
+* Run command "npm install axios" in Terminal for AXIOS.
 
 The LIRI App is organized using several functions and a switch statement. LIRI includes logging support both to the console and an output file - log.txt.
 It uses the npm node module, 'simple-node-logger', for it's logging solution.
