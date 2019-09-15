@@ -1,0 +1,115 @@
+23:44:10.600 INFO  ===================================================================== 
+23:44:10.603 INFO  user command: spotify-this-song   User arguments: undefined 
+23:44:11.217 INFO  Artist: Ace of Base 
+23:44:11.219 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
+23:44:11.222 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
+23:44:11.275 INFO  Album: The Sign (US Album) [Remastered] 
+23:44:39.834 INFO  ===================================================================== 
+23:44:39.837 INFO  user command: spotify-this-song   User arguments: metallica 
+23:44:40.434 INFO  Artist: Sabaton 
+23:44:40.436 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
+23:44:40.437 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
+23:44:40.474 INFO  Album: Heroes (Bonus Version) 
+23:45:30.138 INFO  ===================================================================== 
+23:45:30.142 INFO  user command: concert-this   User arguments: janet 
+23:45:30.144 INFO  https://rest.bandsintown.com/artists/janet+jackson/events?app_id=codingbootcamp 
+23:45:30.633 INFO  Venue: Chase Center 
+23:45:30.635 INFO  City: San Francisco 
+23:45:30.655 INFO  09/21/2019 
+23:45:54.225 INFO  ===================================================================== 
+23:45:54.228 INFO  user command: concert-this   User arguments: undefined 
+23:45:54.271 INFO  https://rest.bandsintown.com/artists//events?app_id=codingbootcamp 
+00:02:01.863 INFO  ===================================================================== 
+00:02:01.867 INFO  user command: spotify-this-song   User arguments: metallica 
+00:02:02.458 INFO  Artist: Sabaton 
+00:02:02.461 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
+00:02:02.463 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
+00:02:02.498 INFO  Album: Heroes (Bonus Version) 
+00:03:03.060 INFO  ===================================================================== 
+00:03:03.063 INFO  user command: spotify-this-song   User arguments: metallica 
+00:03:03.643 INFO  Artist: Sabaton 
+00:03:03.646 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
+00:03:03.670 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
+00:03:03.673 INFO  Album: Heroes (Bonus Version) 
+00:04:31.670 INFO  ===================================================================== 
+00:04:31.674 INFO  user command: spotify-this-song   User arguments: undefined 
+00:04:32.270 INFO  Artist: Ace of Base 
+00:04:32.272 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
+00:04:32.273 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
+00:04:32.294 INFO  Album: The Sign (US Album) [Remastered] 
+00:05:00.639 INFO  ===================================================================== 
+00:05:00.642 INFO  user command: movie-this   User arguments: undefined 
+00:05:00.845 INFO  Title: Mr. Nobody 
+00:05:00.848 INFO  Year: 2009 
+00:05:00.850 INFO  Rated: 7.8 
+00:05:00.870 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+00:05:00.874 INFO  Language: English, Mohawk 
+00:05:00.875 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+00:05:00.905 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+00:05:00.907 INFO  Rotten Tomatoes: 66% 
+00:05:24.772 INFO  ===================================================================== 
+00:05:24.775 INFO  user command: concert-this   User arguments: undefined 
+00:05:24.777 INFO  https://rest.bandsintown.com/artists/James Brown/events?app_id=codingbootcamp 
+00:08:50.872 INFO  ===================================================================== 
+00:08:50.877 INFO  user command: concert-this   User arguments: undefined 
+00:08:50.879 INFO  https://rest.bandsintown.com/artists/Drake/events?app_id=codingbootcamp 
+00:12:21.682 INFO  ===================================================================== 
+00:12:21.686 INFO  user command: concert-this   User arguments: undefined 
+00:12:21.690 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+00:12:22.626 INFO  Venue: Zilker Park 
+00:12:22.629 INFO  City: Austin 
+00:12:22.663 INFO  10/04/2019 
+00:13:39.192 INFO  ===================================================================== 
+00:13:39.196 INFO  user command: do-what-it-says   User arguments: undefined 
+00:13:39.244 INFO  spotify-this-song 
+00:13:39.269 INFO  "I Want it That Way"
+ 
+00:21:52.729 INFO  ===================================================================== 
+00:21:52.751 INFO  user command: concert-this   user arguments: undefined 
+00:21:52.797 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+00:21:53.414 INFO  Venue: Zilker Park 
+00:21:53.416 INFO  City: Austin 
+00:21:53.440 INFO  10/04/2019 
+00:22:19.866 INFO  ===================================================================== 
+00:22:19.868 INFO  user command: spotify-this-song   user arguments: undefined 
+00:22:20.605 INFO  Artist: Ace of Base 
+00:22:20.608 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
+00:22:20.610 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
+00:22:20.622 INFO  Album: The Sign (US Album) [Remastered] 
+00:22:37.964 INFO  ===================================================================== 
+00:22:37.968 INFO  user command: movie-this   user arguments: undefined 
+00:22:38.215 INFO  Title: Mr. Nobody 
+00:22:38.219 INFO  Year: 2009 
+00:22:38.221 INFO  Rated: 7.8 
+00:22:38.234 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+00:22:38.237 INFO  Language: English, Mohawk 
+00:22:38.239 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+00:22:38.258 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+00:22:38.275 INFO  Rotten Tomatoes: 66% 
+00:23:00.964 INFO  ===================================================================== 
+00:23:00.980 INFO  user command: do-what-it-says   user arguments: undefined 
+00:23:01.069 INFO  spotify-this-song 
+00:23:01.092 INFO  "I Want it That Way"
+ 
+00:23:25.179 INFO  ===================================================================== 
+00:23:25.183 INFO  user command: movie-this   user arguments: heat 
+00:23:25.434 INFO  Title: Heat 
+00:23:25.436 INFO  Year: 1995 
+00:23:25.444 INFO  Rated: 8.2 
+00:23:25.450 INFO  Country: USA 
+00:23:25.460 INFO  Language: English, Spanish 
+00:23:25.464 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+00:23:25.478 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+00:23:25.500 INFO  Rotten Tomatoes: 86% 
+00:23:45.121 INFO  ===================================================================== 
+00:23:45.141 INFO  user command: spotify-this-song   user arguments: beat it 
+00:23:45.824 INFO  Artist: Michael Jackson 
+00:23:45.826 INFO  Song: Beat It - Single Version 
+00:23:45.829 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+00:23:45.840 INFO  Album: Thriller 25 Super Deluxe Edition 
+00:24:12.751 INFO  ===================================================================== 
+00:24:12.754 INFO  user command: concert-this   user arguments: janet jackson 
+00:24:12.757 INFO  https://rest.bandsintown.com/artists/janet jackson/events?app_id=codingbootcamp 
+00:24:13.340 INFO  Venue: Chase Center 
+00:24:13.343 INFO  City: San Francisco 
+00:24:13.361 INFO  09/21/2019 
