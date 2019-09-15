@@ -25,14 +25,16 @@ It uses the npm node module, 'simple-node-logger', for it's logging solution.
 
 "npm install simple-node-logger --save"
 
-Built With.
-Node.js.
-[Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api).
-[AXIOS](https://www.npmjs.com/package/axios).
-[OMDB API](http://www.omdbapi.com). 
-[Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api).
-[Moment](https://www.npmjs.com/package/moment).
-[DotEnv](https://www.npmjs.com/package/dotenv).
+* Built With.
+```
+2. Node.js.
+3. [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api).
+4. [AXIOS](https://www.npmjs.com/package/axios).
+5. [OMDB API](http://www.omdbapi.com). 
+6. [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api).
+7. [Moment](https://www.npmjs.com/package/moment).
+8. [DotEnv](https://www.npmjs.com/package/dotenv).
+```
 
 Developer: Clifton Nwokeuku - The University of Minnesota Coding Boot Camp.
 
@@ -42,13 +44,13 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 spotify-this-song "song title" will display information about the song such as the artist, album name and a preview link.
 concert-this "Artist name" Will display upcoming concerts by the Artist.
-movie-this "movie title" will information about the movie such as Rotten Tomatoes rating, year, plot, and actors.
+movie-this "movie title" will return information about the movie such as Rotten Tomatoes rating, year, plot, and actors.
 do-what-it-says takes the text from random.txt and executes it.
 
 Best practise will be to type argv[4] strings in ' ' or " " (Example: node liri movie-this 'The Firm').
 But it will work the same without them. It helps with logging.
 
-To run LIRI: Type "node liri.js" to execute the app, pass it the requisite command & args> (See examples below).
+To run LIRI: Type "node liri.js" to execute the app, pass it the requisite command & args (See examples below).
 
 At the command line,type node liri.js concert-this "your bands or artist name" (See screenshot example below:).
 ![Alt text](./slides/concert-this.jpg?raw=true "$ node liri concert-this metallica").
