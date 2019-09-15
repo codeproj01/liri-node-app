@@ -27,13 +27,13 @@ It uses the npm node module, 'simple-node-logger', for it's logging solution.
 
 * Built With.
 ```
-2. Node.js.
-3. [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api).
-4. [AXIOS](https://www.npmjs.com/package/axios).
-5. [OMDB API](http://www.omdbapi.com). 
-6. [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api).
-7. [Moment](https://www.npmjs.com/package/moment).
-8. [DotEnv](https://www.npmjs.com/package/dotenv).
+1. Node.js.
+2. [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api).
+3. [AXIOS](https://www.npmjs.com/package/axios).
+4. [OMDB API](http://www.omdbapi.com). 
+5. [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api).
+6. [Moment](https://www.npmjs.com/package/moment).
+7. [DotEnv](https://www.npmjs.com/package/dotenv).
 ```
 
 Developer: Clifton Nwokeuku - The University of Minnesota Coding Boot Camp.
