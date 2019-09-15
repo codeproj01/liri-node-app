@@ -36,7 +36,7 @@ It uses the npm node module, 'simple-node-logger', for it's logging solution.
 7. [DotEnv](https://www.npmjs.com/package/dotenv).
 ```
 
-Developer: Clifton Nwokeuku - The University of Minnesota Coding Boot Camp.
+* Developer: Clifton Nwokeuku - The University of Minnesota Coding Boot Camp.
 
 Instructions on how liri-node-app works:
 
@@ -51,29 +51,36 @@ Best practise will be to type argv[4] strings in ' ' or " " (Example: node liri 
 But it will work the same without them. It helps with logging.
 
 To run LIRI: Type "node liri.js" to execute the app, pass it the requisite command & args (See examples below).
-
+```
 At the command line,type node liri.js concert-this "your bands or artist name" (See screenshot example below:).
+```
 ![Alt text](./slides/concert-this.jpg?raw=true "$ node liri concert-this metallica").
-
+```
 At terminals command line,type node liri.js spotify-this-song "your song name" (See screenshot example below:).
+```
 ![Alt text](./slides/spotify-this-song.jpg?raw=true "$ node liri spotify-this-song Thriller").
-
+```
 At the command line,type node liri.js movie-this "your movie's title name" (See screenshot example below:).
+```
 ![Alt text](./slides/movie-this.jpg?raw=true "$ node liri movie-this heat").
-
+```
 At the command line,type node liri.js do-what-it-says  Here, LIRI will pull text from inside a txt file and use it to call one of its commands. 
 In this example, spotify-this-song,"I want it that way" is from the txt file.(See screenshot example below:).
+```
 ![Alt text](./slides/do-what-it-says.jpg?raw=true "$ node liri do-what-it-says").
-
+```
 At the command line,type node liri.js spotify-this-song [without an argument: ie song name]. 
 Program will default to "The Sign" by Ace of Base. (See screenshot example below:).
+```
 ![Alt text](./slides/spotify-this-song-no-args.jpg?raw=true "$ node liri spotify-this-song without a song name you get the default song").
-
+```
 At the command line,type node liri.js movie-this [without an argument: ie movie name].
 Program will default to "Mr. Nobody". (See screenshot example below:).
+```
 ![Alt text](./slides/movie-this-no-args.jpg?raw=true "$ node liri movie-this without a movie name you get the default movie").
-
+```
 At the command line,type node liri.js concert-this [without an argument: ie band name or artist]. 
 Program will default to "Cardi. B". (See screenshot example below:).
+```
 ![Alt text](./slides/concert-this-no-args.jpg?raw=true "$ node liri concert-this without a Band name you get a default Artist/Band").
 
