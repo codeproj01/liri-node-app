@@ -25,8 +25,7 @@ var inputChoice = process.argv[2];
 
 //LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-//This function will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) 
-//for an artist and render the following information about each event to the terminal:
+//This function will search the Bands in Town Artist Events API for a Band/Artist and render the following information about each event to the terminal:
 
 function bandsInTown(){
     var artist = "";
@@ -56,7 +55,7 @@ function bandsInTown(){
 
 
 //This function will show the following information about the song in your terminal/bash window Artist(s), The song's name, A preview link of the song from Spotify, 
-//The album that the song is from]
+//and the album that the song is from.
 
  function songChoice(){
     var songName = "";
@@ -85,8 +84,8 @@ function bandsInTown(){
     });
 };
 
-//This function will output the following information to your terminal/bash window:(Title of the movie, Year the movie came out, IMDB Rating of the movie, 
-//Rotten Tomatoes Rating of the movie., Country where the movie was produced. Language of the movie, Plot of the movie, Actors in the movie.)
+//This function will output the following information to your terminal/bash window: Title of the movie, Year the movie came out, IMDB Rating of the movie, 
+//Rotten Tomatoes Rating of the movie, Country where the movie was produced. Language of the movie, Plot of the movie, Actors in the movie.
 
 function movieChoice(){
  
@@ -122,7 +121,7 @@ function movieChoice(){
     };
 
 //Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-//It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+//It should run `spotify-this-song` for "I Want it That Way," as shown in the text in `random.txt`.
 
 function doWhatItSays() {
 
@@ -137,7 +136,7 @@ function doWhatItSays() {
       });
 };
 
-//Setting up the Switch Statement based on the user input to complete the API request. .
+//Setting up the Switch Statement based on the user input to complete the API request.
 //Switch Statement with logging information.
 
 switch (inputChoice){
