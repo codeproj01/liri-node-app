@@ -183,3 +183,9 @@
 01:42:20.763 INFO  Venue: Chase Center 
 01:42:20.766 INFO  City: San Francisco 
 01:42:20.787 INFO  09/21/2019 
+21:39:19.278 INFO  ===================================================================== 
+21:39:19.281 INFO  user command: concert-this   user arguments: michae 
+21:39:19.283 INFO  https://rest.bandsintown.com/artists/michae+jackson/events?app_id=codingbootcamp 
+21:40:28.156 INFO  ===================================================================== 
+21:40:28.158 INFO  user command: concert-this   user arguments: michael 
+21:40:28.159 INFO  https://rest.bandsintown.com/artists/michael+jackson/events?app_id=codingbootcamp 
