@@ -56,7 +56,7 @@ At the terminals command prompt, type "node liri.js concert-this [your bands or 
 ```
 ![Alt text](./slides/concert-this.jpg?raw=true "$ node liri concert-this metallica").
 ```
-At the terminals command prompt, type "node liri.js spotify-this-song *[your song name]*" (See screenshot example below:).
+At the terminals command prompt, type "node liri.js spotify-this-song [your song name]" (See screenshot example below:).
 ```
 ![Alt text](./slides/spotify-this-song.jpg?raw=true "$ node liri spotify-this-song Thriller").
 ```
