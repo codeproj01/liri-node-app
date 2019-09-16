@@ -20,16 +20,16 @@ const log = require('simple-node-logger').createSimpleFileLogger( filename );
 //All log information printed to log.txt.
 log.setLevel('all');
 
-var userInput = process.argv;
-var inputChoice = process.argv[2];
+let userInput = process.argv;
+let inputChoice = process.argv[2];
 
 //LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 //This function will search the Bands in Town Artist Events API for a Band/Artist and render the following information about each event to the terminal:
 
 function bandsInTown(){
-    var artist = "";
-    for (var i = 3; i < userInput.length; i++){
+    let artist = "";
+    for (let i = 3; i < userInput.length; i++){
         if (i > 3 && i < userInput.length){
             artist = artist + "+" + userInput[i];
         }
@@ -41,7 +41,7 @@ function bandsInTown(){
         artist = "Cardi B";
     }
 
-    var queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    let queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
     
     logOutput(queryURL); 
 
@@ -51,6 +51,9 @@ function bandsInTown(){
             logOutput("City: " + bandResponse.data[0].venue.city);
             logOutput(moment(bandResponse.data[0].datetime).format("MM/DD/YYYY"));
         })
+        .catch(function (error) {
+            console.log("NOTHING FOUND");
+          });
     };
 
 
@@ -58,8 +61,8 @@ function bandsInTown(){
 //and the album that the song is from.
 
  function songChoice(){
-    var songName = "";
-    for (var i = 3; i < userInput.length; i++){
+    let songName = "";
+    for (let i = 3; i < userInput.length; i++){
         if (i > 3 && i < userInput.length){
             songName = songName + "+" + userInput[i];
         }
@@ -71,11 +74,12 @@ function bandsInTown(){
         songName = "Ace of Base The Sign";
     }
     
-    var spotify = new Spotify(keys.spotify)
+    let spotify = new Spotify(keys.spotify)
 
     spotify.request('https://api.spotify.com/v1/search?q=track:' + songName + '&type=track', function(error, songResponse) {
         if (error){
-            return logOutput(error);
+           // return logOutput(error);
+            return logOutput("NOTHING FOUND");
         }
         logOutput("Artist: " + songResponse.tracks.items[0].artists[0].name);
         logOutput("Song: " + songResponse.tracks.items[0].name);
@@ -89,9 +93,9 @@ function bandsInTown(){
 
 function movieChoice(){
  
-    var movieName = "";
+    let movieName = "";
 
-    for (var i = 3; i < userInput.length; i++){
+    for (let i = 3; i < userInput.length; i++){
         if (i > 3 && i < userInput.length){
             movieName = movieName + "+" + userInput[i];
         }
@@ -104,7 +108,7 @@ function movieChoice(){
         movieName = "Mr. Nobody";
     }
     
-    var queryURL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=f3f1608e";
+    let queryURL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=f3f1608e";
 
 
     axios.get(queryURL).then(
@@ -117,7 +121,10 @@ function movieChoice(){
             logOutput("Plot: " + movieResponse.data.Plot);
             logOutput("Actors: " + movieResponse.data.Actors);
             logOutput("Rotten Tomatoes: " + movieResponse.data.Ratings[1].Value);
-        });
+        })
+        .catch(function (error) {
+            console.log("NOTHING FOUND");
+          });
     };
 
 //Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
@@ -129,8 +136,8 @@ function doWhatItSays() {
       if (error) {
         return logOutput(error);
       }
-        var output = data.split(",");
-        for (var i = 0; i < output.length; i++) {
+        let output = data.split(",");
+        for (let i = 0; i < output.length; i++) {
             logOutput(output[i]);
         }
       });
@@ -141,7 +148,6 @@ function doWhatItSays() {
 
 switch (inputChoice){
     case "concert-this":
-        //logs.log(fs, `\n${starSplitter}\nCOMMAND ISSUED: ${itemOBJ.query}`);
         logOutput("=====================================================================");
         logOutput("user command: " + userInput[2] + "   user arguments: " + userInput[3]);
         bandsInTown();

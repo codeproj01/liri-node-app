@@ -189,3 +189,323 @@
 21:40:28.156 INFO  ===================================================================== 
 21:40:28.158 INFO  user command: concert-this   user arguments: michael 
 21:40:28.159 INFO  https://rest.bandsintown.com/artists/michael+jackson/events?app_id=codingbootcamp 
+22:54:14.991 INFO  ===================================================================== 
+22:54:14.994 INFO  user command: movie-this   user arguments: training day 
+22:55:59.339 INFO  ===================================================================== 
+22:55:59.341 INFO  user command: movie-this   user arguments: training 
+22:55:59.549 INFO  Title: Training Day 
+22:55:59.550 INFO  Year: 2001 
+22:55:59.551 INFO  Rated: 7.7 
+22:55:59.551 INFO  Country: USA 
+22:55:59.552 INFO  Language: Greek, English, Russian, Spanish, Korean 
+22:55:59.552 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
+22:55:59.553 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+22:55:59.553 INFO  Rotten Tomatoes: 72% 
+22:56:34.679 INFO  ===================================================================== 
+22:56:34.682 INFO  user command: movie-this   user arguments: training 
+22:56:34.896 INFO  Title: Training Day 
+22:56:34.899 INFO  Year: 2001 
+22:56:34.900 INFO  Rated: 7.7 
+22:56:34.936 INFO  Country: USA 
+22:56:34.938 INFO  Language: Greek, English, Russian, Spanish, Korean 
+22:56:34.940 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
+22:56:34.987 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+22:56:35.041 INFO  Rotten Tomatoes: 72% 
+22:57:17.567 INFO  ===================================================================== 
+22:57:17.569 INFO  user command: movie-this   user arguments: training day 
+22:57:47.742 INFO  ===================================================================== 
+22:57:47.744 INFO  user command: movie-this   user arguments: the firm 
+22:57:47.966 INFO  Title: The Firm 
+22:57:47.969 INFO  Year: 1993 
+22:57:47.970 INFO  Rated: 6.8 
+22:57:48.014 INFO  Country: USA 
+22:57:48.016 INFO  Language: English 
+22:57:48.018 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+22:57:48.059 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+22:57:48.062 INFO  Rotten Tomatoes: 75% 
+22:58:00.145 INFO  ===================================================================== 
+22:58:00.148 INFO  user command: movie-this   user arguments: the 
+22:58:07.493 INFO  ===================================================================== 
+22:58:07.496 INFO  user command: movie-this   user arguments: the 
+22:58:22.286 INFO  ===================================================================== 
+22:58:22.289 INFO  user command: movie-this   user arguments: the firm 
+22:58:22.525 INFO  Title: The Firm 
+22:58:22.527 INFO  Year: 1993 
+22:58:22.529 INFO  Rated: 6.8 
+22:58:22.570 INFO  Country: USA 
+22:58:22.637 INFO  Language: English 
+22:58:22.690 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+22:58:22.738 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+22:58:22.779 INFO  Rotten Tomatoes: 75% 
+22:58:45.801 INFO  ===================================================================== 
+22:58:45.803 INFO  user command: movie-this   user arguments: training day 
+22:59:05.896 INFO  ===================================================================== 
+22:59:05.900 INFO  user command: movie-this   user arguments: the firm 
+22:59:06.257 INFO  Title: The Firm 
+22:59:06.258 INFO  Year: 1993 
+22:59:06.259 INFO  Rated: 6.8 
+22:59:06.259 INFO  Country: USA 
+22:59:06.260 INFO  Language: English 
+22:59:06.260 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+22:59:06.261 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+22:59:06.261 INFO  Rotten Tomatoes: 75% 
+22:59:20.102 INFO  ===================================================================== 
+22:59:20.104 INFO  user command: movie-this   user arguments: the 
+23:00:47.812 INFO  ===================================================================== 
+23:00:47.814 INFO  user command: spotify-this-song   user arguments: beat 
+23:00:48.499 INFO  Artist: Michael Jackson 
+23:00:48.500 INFO  Song: Beat It - Single Version 
+23:00:48.501 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+23:00:48.506 INFO  Album: Thriller 25 Super Deluxe Edition 
+23:01:01.005 INFO  ===================================================================== 
+23:01:01.008 INFO  user command: spotify-this-song   user arguments: beat it 
+23:01:01.643 INFO  Artist: Michael Jackson 
+23:01:01.644 INFO  Song: Beat It - Single Version 
+23:01:01.645 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+23:01:01.645 INFO  Album: Thriller 25 Super Deluxe Edition 
+23:01:25.230 INFO  ===================================================================== 
+23:01:25.232 INFO  user command: movie-this   user arguments: heat 
+23:01:35.331 INFO  ===================================================================== 
+23:01:35.333 INFO  user command: movie-this   user arguments: heat 
+23:01:57.469 INFO  ===================================================================== 
+23:01:57.475 INFO  user command: movie-this   user arguments: heat 
+23:02:20.107 INFO  ===================================================================== 
+23:02:20.108 INFO  user command: movie-this   user arguments: heat 
+23:02:29.258 INFO  ===================================================================== 
+23:02:29.261 INFO  user command: movie-this   user arguments: undefined 
+23:02:29.476 INFO  Title: Mr. Nobody 
+23:02:29.477 INFO  Year: 2009 
+23:02:29.478 INFO  Rated: 7.8 
+23:02:29.478 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+23:02:29.479 INFO  Language: English, Mohawk 
+23:02:29.479 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+23:02:29.479 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+23:02:29.480 INFO  Rotten Tomatoes: 66% 
+23:02:38.431 INFO  ===================================================================== 
+23:02:38.432 INFO  user command: movie-this   user arguments: heat 
+23:04:05.503 INFO  ===================================================================== 
+23:04:05.506 INFO  user command: movie-this   user arguments: the firm 
+23:04:05.818 INFO  Title: The Firm 
+23:04:05.881 INFO  Year: 1993 
+23:04:05.936 INFO  Rated: 6.8 
+23:04:06.005 INFO  Country: USA 
+23:04:06.053 INFO  Language: English 
+23:04:06.055 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:04:06.058 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:04:06.117 INFO  Rotten Tomatoes: 75% 
+23:04:17.100 INFO  ===================================================================== 
+23:04:17.102 INFO  user command: movie-this   user arguments: the 
+23:04:17.410 INFO  Title: The Firm 
+23:04:17.412 INFO  Year: 1993 
+23:04:17.414 INFO  Rated: 6.8 
+23:04:17.448 INFO  Country: USA 
+23:04:17.451 INFO  Language: English 
+23:04:17.453 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:04:17.454 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:04:17.535 INFO  Rotten Tomatoes: 75% 
+23:04:34.819 INFO  ===================================================================== 
+23:04:34.821 INFO  user command: movie-this   user arguments: heat 
+23:04:35.137 INFO  Title: Heat 
+23:04:35.138 INFO  Year: 1995 
+23:04:35.139 INFO  Rated: 8.2 
+23:04:35.139 INFO  Country: USA 
+23:04:35.140 INFO  Language: English, Spanish 
+23:04:35.140 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+23:04:35.141 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+23:04:35.141 INFO  Rotten Tomatoes: 86% 
+23:05:07.461 INFO  ===================================================================== 
+23:05:07.463 INFO  user command: movie-this   user arguments: heat 
+23:05:07.660 INFO  Title: Heat 
+23:05:07.660 INFO  Year: 1995 
+23:05:07.661 INFO  Rated: 8.2 
+23:05:07.661 INFO  Country: USA 
+23:05:07.661 INFO  Language: English, Spanish 
+23:05:07.662 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+23:05:07.662 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+23:05:07.663 INFO  Rotten Tomatoes: 86% 
+23:05:21.915 INFO  ===================================================================== 
+23:05:21.917 INFO  user command: movie-this   user arguments: the 
+23:05:22.109 INFO  Title: The Firm 
+23:05:22.110 INFO  Year: 1993 
+23:05:22.110 INFO  Rated: 6.8 
+23:05:22.116 INFO  Country: USA 
+23:05:22.130 INFO  Language: English 
+23:05:22.130 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:05:22.131 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:05:22.131 INFO  Rotten Tomatoes: 75% 
+23:08:01.361 INFO  ===================================================================== 
+23:08:01.364 INFO  user command: movie-this   user arguments: the 
+23:08:01.623 INFO  Title: The Firm 
+23:08:01.630 INFO  Year: 1993 
+23:08:01.671 INFO  Rated: 6.8 
+23:08:01.712 INFO  Country: USA 
+23:08:01.761 INFO  Language: English 
+23:08:01.799 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:08:01.838 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:08:01.841 INFO  Rotten Tomatoes: 75% 
+23:08:16.458 INFO  ===================================================================== 
+23:08:16.460 INFO  user command: movie-this   user arguments: the firm 
+23:08:16.684 INFO  Title: The Firm 
+23:08:16.687 INFO  Year: 1993 
+23:08:16.688 INFO  Rated: 6.8 
+23:08:16.724 INFO  Country: USA 
+23:08:16.773 INFO  Language: English 
+23:08:16.803 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:08:16.838 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:08:16.841 INFO  Rotten Tomatoes: 75% 
+23:08:29.510 INFO  ===================================================================== 
+23:08:29.513 INFO  user command: movie-this   user arguments: training 
+23:08:29.748 INFO  Title: Training Day 
+23:08:29.750 INFO  Year: 2001 
+23:08:29.751 INFO  Rated: 7.7 
+23:08:29.786 INFO  Country: USA 
+23:08:29.840 INFO  Language: Greek, English, Russian, Spanish, Korean 
+23:08:29.843 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
+23:08:29.848 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+23:08:29.850 INFO  Rotten Tomatoes: 72% 
+23:08:41.465 INFO  ===================================================================== 
+23:08:41.468 INFO  user command: movie-this   user arguments: training day 
+23:08:41.776 INFO  Title: Training Day 
+23:08:41.784 INFO  Year: 2001 
+23:08:41.786 INFO  Rated: 7.7 
+23:08:41.830 INFO  Country: USA 
+23:08:41.835 INFO  Language: Greek, English, Russian, Spanish, Korean 
+23:08:41.895 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
+23:08:41.945 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+23:08:41.948 INFO  Rotten Tomatoes: 72% 
+23:21:00.927 INFO  ===================================================================== 
+23:21:00.930 INFO  user command: movie-this   user arguments: training 
+23:21:01.132 INFO  Title: Training Day 
+23:21:01.134 INFO  Year: 2001 
+23:21:01.136 INFO  Rated: 7.7 
+23:21:01.169 INFO  Country: USA 
+23:21:01.173 INFO  Language: Greek, English, Russian, Spanish, Korean 
+23:21:01.224 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
+23:21:01.230 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+23:21:01.233 INFO  Rotten Tomatoes: 72% 
+23:21:09.435 INFO  ===================================================================== 
+23:21:09.438 INFO  user command: movie-this   user arguments: the 
+23:21:09.672 INFO  Title: The Firm 
+23:21:09.674 INFO  Year: 1993 
+23:21:09.676 INFO  Rated: 6.8 
+23:21:09.677 INFO  Country: USA 
+23:21:09.714 INFO  Language: English 
+23:21:09.716 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:21:09.761 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:21:09.844 INFO  Rotten Tomatoes: 75% 
+23:21:28.597 INFO  ===================================================================== 
+23:21:28.600 INFO  user command: concert-this   user arguments: RZA 
+23:21:28.602 INFO  https://rest.bandsintown.com/artists/RZA/events?app_id=codingbootcamp 
+23:21:29.188 INFO  Venue: St. George Theatre 
+23:21:29.191 INFO  City: Staten Island 
+23:21:29.208 INFO  11/09/2019 
+23:21:57.162 INFO  ===================================================================== 
+23:21:57.164 INFO  user command: do-what-it-says   user arguments: undefined 
+23:21:57.214 INFO  spotify-this-song 
+23:21:57.233 INFO  "I Want it That Way"
+ 
+23:28:58.499 INFO  ===================================================================== 
+23:28:58.502 INFO  user command: movie-this   user arguments: zzzzzzzzz 
+23:28:58.786 INFO  Title: undefined 
+23:28:58.788 INFO  Year: undefined 
+23:28:58.790 INFO  Rated: undefined 
+23:28:58.791 INFO  Country: undefined 
+23:28:58.792 INFO  Language: undefined 
+23:28:58.793 INFO  Plot: undefined 
+23:28:58.795 INFO  Actors: undefined 
+23:30:26.362 INFO  ===================================================================== 
+23:30:26.365 INFO  user command: concert-this   user arguments: zzzzzzzzz 
+23:30:26.367 INFO  https://rest.bandsintown.com/artists/zzzzzzzzz/events?app_id=codingbootcamp 
+23:31:03.527 INFO  ===================================================================== 
+23:31:03.529 INFO  user command: spotify-this-song   user arguments: zzzzzzzzz 
+23:31:04.214 INFO  Artist: Roza Roza 
+23:31:04.216 INFO  Song: zzzzzzzzz 
+23:31:04.218 INFO  URL: https://p.scdn.co/mp3-preview/4a852560740ccbc7f511849cf72a4da13095d8fd?cid=82dd5f292e934394b2bba406f65b300b 
+23:31:04.252 INFO  Album: Embassy Patterns 
+23:31:27.987 INFO  ===================================================================== 
+23:31:27.990 INFO  user command: spotify-this-song   user arguments: asasasasasasasas 
+23:31:28.500 INFO  NOTHING FOUND 
+23:52:16.454 INFO  ===================================================================== 
+23:52:16.457 INFO  user command: spotify-this-song   user arguments: asasasasasasasas 
+23:52:17.014 INFO  NOTHING FOUND 
+23:52:37.216 INFO  ===================================================================== 
+23:52:37.219 INFO  user command: movie-this   user arguments: asasasasasasasas 
+23:52:37.490 INFO  Title: undefined 
+23:52:37.495 INFO  Year: undefined 
+23:52:37.497 INFO  Rated: undefined 
+23:52:37.528 INFO  Country: undefined 
+23:52:37.541 INFO  Language: undefined 
+23:52:37.544 INFO  Plot: undefined 
+23:52:37.578 INFO  Actors: undefined 
+23:52:59.612 INFO  ===================================================================== 
+23:52:59.615 INFO  user command: concert-this   user arguments: asasasasasasasas 
+23:52:59.618 INFO  https://rest.bandsintown.com/artists/asasasasasasasas/events?app_id=codingbootcamp 
+23:53:20.486 INFO  ===================================================================== 
+23:53:20.488 INFO  user command: do-what-it-says   user arguments: undefined 
+23:53:20.551 INFO  spotify-this-song 
+23:53:20.557 INFO  "I Want it That Way"
+ 
+23:53:33.473 INFO  ===================================================================== 
+23:53:33.475 INFO  user command: spotify-this-song   user arguments: zzzzzzzzz 
+23:53:34.029 INFO  Artist: Roza Roza 
+23:53:34.032 INFO  Song: zzzzzzzzz 
+23:53:34.033 INFO  URL: https://p.scdn.co/mp3-preview/4a852560740ccbc7f511849cf72a4da13095d8fd?cid=82dd5f292e934394b2bba406f65b300b 
+23:53:34.076 INFO  Album: Embassy Patterns 
+23:53:43.684 INFO  ===================================================================== 
+23:53:43.688 INFO  user command: movie-this   user arguments: the 
+23:53:43.907 INFO  Title: The Firm 
+23:53:43.909 INFO  Year: 1993 
+23:53:43.911 INFO  Rated: 6.8 
+23:53:43.956 INFO  Country: USA 
+23:53:43.986 INFO  Language: English 
+23:53:44.048 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+23:53:44.049 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+23:53:44.051 INFO  Rotten Tomatoes: 75% 
+23:53:53.402 INFO  ===================================================================== 
+23:53:53.405 INFO  user command: movie-this   user arguments: thebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb 
+23:53:53.645 INFO  Title: undefined 
+23:53:53.647 INFO  Year: undefined 
+23:53:53.648 INFO  Rated: undefined 
+23:53:53.651 INFO  Country: undefined 
+23:53:53.652 INFO  Language: undefined 
+23:53:53.740 INFO  Plot: undefined 
+23:53:53.839 INFO  Actors: undefined 
+23:54:11.503 INFO  ===================================================================== 
+23:54:11.506 INFO  user command: spotify-this-song   user arguments: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 
+23:54:12.066 INFO  NOTHING FOUND 
+23:54:35.997 INFO  ===================================================================== 
+23:54:36.001 INFO  user command: spotify-this-song   user arguments: i 
+23:54:36.637 INFO  Artist: The Jackson 5 
+23:54:36.640 INFO  Song: I Want You Back 
+23:54:36.641 INFO  URL: null 
+23:54:36.682 INFO  Album: Motown Legends: Jackson 5 - Never Can Say Goodbye 
+23:57:58.145 INFO  ===================================================================== 
+23:57:58.148 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
+23:57:58.150 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
+23:58:36.563 INFO  ===================================================================== 
+23:58:36.566 INFO  user command: movie-this   user arguments: thebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb 
+23:58:36.805 INFO  Title: undefined 
+23:58:36.807 INFO  Year: undefined 
+23:58:36.809 INFO  Rated: undefined 
+23:58:36.846 INFO  Country: undefined 
+23:58:36.849 INFO  Language: undefined 
+23:58:36.851 INFO  Plot: undefined 
+23:58:36.854 INFO  Actors: undefined 
+23:59:33.694 INFO  ===================================================================== 
+23:59:33.697 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
+23:59:33.731 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
+00:00:24.041 INFO  ===================================================================== 
+00:00:24.044 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
+00:00:24.047 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
+00:00:38.908 INFO  ===================================================================== 
+00:00:38.911 INFO  user command: movie-this   user arguments: asasasasasasasasoooooooooooo 
+00:00:39.245 INFO  Title: undefined 
+00:00:39.247 INFO  Year: undefined 
+00:00:39.248 INFO  Rated: undefined 
+00:00:39.284 INFO  Country: undefined 
+00:00:39.323 INFO  Language: undefined 
+00:00:39.326 INFO  Plot: undefined 
+00:00:39.329 INFO  Actors: undefined 
+00:00:56.439 INFO  ===================================================================== 
+00:00:56.442 INFO  user command: spotify-this-song   user arguments: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh 
+00:00:56.998 INFO  NOTHING FOUND 
