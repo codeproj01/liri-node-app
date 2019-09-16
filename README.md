@@ -43,8 +43,11 @@ Instructions on how liri-node-app works:
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 spotify-this-song "song title" will display information about the song such as the artist, album name and a preview link.
+
 concert-this "Artist name" Will display upcoming concerts by the Artist.
+
 movie-this "movie title" will return information about the movie such as Rotten Tomatoes rating, year, plot, and actors.
+
 do-what-it-says takes the text from random.txt and executes it.
 
 Best practise will be to type argv[4] strings in ' ' or " " (Example: node liri movie-this 'The Firm').
