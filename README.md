@@ -50,8 +50,8 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 **do-what-it-says** takes the text from random.txt and executes it.
 
-Best practise will be to type argv[4] strings in ' ' or " " (Example: node liri movie-this 'The Firm').
-But it will work the same without them. It helps with logging.
+Best practise will be to enclose argv[4] strings in ' ' or " " (Example: node liri movie-this 'The Firm').
+But it will work the same without it.
 
 To run LIRI: Type *"node liri.js"* to execute the app, pass it the requisite command & args (See examples below).
 ```
