@@ -44,7 +44,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 **spotify-this-song <song_title>** will display information about the song such as the artist, album name and a preview link.
 
-**concert-this "<artist_name>** Will display upcoming concerts by the Artist.
+**concert-this <artist_name>** Will display upcoming concerts by the Artist.
 
 **movie-this <movie_title>** will return information about the movie such as Rotten Tomatoes rating, year, plot, and actors.
 
