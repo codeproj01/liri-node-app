@@ -41,7 +41,7 @@ It uses the npm node module, 'simple-node-logger', for it's logging solution.
 Instructions on how liri-node-app works:
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-```
+
 **spotify-this-song <song_title>** will display information about the song such as the artist, album name and a preview link.
 
 **concert-this <artist_name>** Will display upcoming concerts by the Artist.
@@ -49,7 +49,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 **movie-this <movie_title>** will return information about the movie such as Rotten Tomatoes rating, year, plot, and actors.
 
 **do-what-it-says** takes the text from random.txt and executes it.
-```
+
 Best practise will be to type argv[4] strings in ' ' or " " (Example: node liri movie-this 'The Firm').
 But it will work the same without them. It helps with logging.
 
