@@ -509,3 +509,150 @@
 00:00:56.439 INFO  ===================================================================== 
 00:00:56.442 INFO  user command: spotify-this-song   user arguments: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh 
 00:00:56.998 INFO  NOTHING FOUND 
+20:02:28.997 INFO  ===================================================================== 
+20:02:29.000 INFO  user command: movie-this   user arguments: C:\Program Files\nodejs\node.exec:\Users\clifton\Documents\CodingBootcamp\Projects2019\liri-node-app\lirimovie-thisthefirm 
+20:02:29.262 INFO  Title: The Firm 
+20:02:29.264 INFO  Year: 1993 
+20:02:29.267 INFO  Rated: 6.8 
+20:02:29.306 INFO  Country: USA 
+20:02:29.309 INFO  Language: English 
+20:02:29.353 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:02:29.356 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:02:29.421 INFO  Rotten Tomatoes: 75% 
+20:05:06.108 INFO  ===================================================================== 
+20:05:06.111 INFO  user command: movie-this   user arguments: movie-this,the,firm 
+20:05:06.326 INFO  Title: The Firm 
+20:05:06.329 INFO  Year: 1993 
+20:05:06.332 INFO  Rated: 6.8 
+20:05:06.386 INFO  Country: USA 
+20:05:06.433 INFO  Language: English 
+20:05:06.436 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:05:06.439 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:05:06.509 INFO  Rotten Tomatoes: 75% 
+20:08:06.439 INFO  ===================================================================== 
+20:08:06.444 INFO  user command: movie-this   user arguments: the,firm 
+20:08:06.718 INFO  Title: The Firm 
+20:08:06.724 INFO  Year: 1993 
+20:08:06.768 INFO  Rated: 6.8 
+20:08:06.810 INFO  Country: USA 
+20:08:06.812 INFO  Language: English 
+20:08:06.842 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:08:06.845 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:08:06.846 INFO  Rotten Tomatoes: 75% 
+20:08:34.171 INFO  ===================================================================== 
+20:08:34.174 INFO  user command: movie-this   user arguments: the firm 
+20:08:34.485 INFO  Title: The Firm 
+20:08:34.487 INFO  Year: 1993 
+20:08:34.523 INFO  Rated: 6.8 
+20:08:34.527 INFO  Country: USA 
+20:08:34.530 INFO  Language: English 
+20:08:34.533 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:08:34.535 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:08:34.536 INFO  Rotten Tomatoes: 75% 
+20:09:08.540 INFO  ===================================================================== 
+20:09:08.543 INFO  user command: movie-this   user arguments: a,b,c,d,r,t 
+20:09:08.859 INFO  Title: undefined 
+20:09:08.861 INFO  Year: undefined 
+20:09:08.863 INFO  Rated: undefined 
+20:09:08.924 INFO  Country: undefined 
+20:09:08.945 INFO  Language: undefined 
+20:09:08.992 INFO  Plot: undefined 
+20:09:09.051 INFO  Actors: undefined 
+20:14:53.302 INFO  ===================================================================== 
+20:14:53.305 INFO  user command: movie-this   user arguments: a b c d r t 
+20:14:53.565 INFO  Title: undefined 
+20:14:53.566 INFO  Year: undefined 
+20:14:53.569 INFO  Rated: undefined 
+20:14:53.667 INFO  Country: undefined 
+20:14:53.721 INFO  Language: undefined 
+20:14:53.725 INFO  Plot: undefined 
+20:14:53.727 INFO  Actors: undefined 
+20:15:21.155 INFO  ===================================================================== 
+20:15:21.158 INFO  user command: movie-this   user arguments: the firm 
+20:15:21.424 INFO  Title: The Firm 
+20:15:21.433 INFO  Year: 1993 
+20:15:21.547 INFO  Rated: 6.8 
+20:15:21.659 INFO  Country: USA 
+20:15:21.703 INFO  Language: English 
+20:15:21.758 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:15:21.764 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:15:21.811 INFO  Rotten Tomatoes: 75% 
+20:15:28.542 INFO  ===================================================================== 
+20:15:28.552 INFO  user command: movie-this   user arguments: the firm 
+20:15:28.867 INFO  Title: The Firm 
+20:15:28.869 INFO  Year: 1993 
+20:15:28.870 INFO  Rated: 6.8 
+20:15:28.916 INFO  Country: USA 
+20:15:28.978 INFO  Language: English 
+20:15:29.066 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:15:29.114 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:15:29.117 INFO  Rotten Tomatoes: 75% 
+20:19:30.736 INFO  ===================================================================== 
+20:19:30.738 INFO  user command: movie-this   user arguments: st. elmos fire 
+20:19:31.040 INFO  Title: undefined 
+20:19:31.040 INFO  Year: undefined 
+20:19:31.041 INFO  Rated: undefined 
+20:19:31.042 INFO  Country: undefined 
+20:19:31.042 INFO  Language: undefined 
+20:19:31.043 INFO  Plot: undefined 
+20:19:31.043 INFO  Actors: undefined 
+20:21:01.201 INFO  ===================================================================== 
+20:21:01.203 INFO  user command: movie-this   user arguments: st. elmos fire 
+20:21:01.462 INFO  Title: undefined 
+20:21:01.464 INFO  Year: undefined 
+20:21:01.465 INFO  Rated: undefined 
+20:21:01.465 INFO  Country: undefined 
+20:21:01.466 INFO  Language: undefined 
+20:21:01.466 INFO  Plot: undefined 
+20:21:01.467 INFO  Actors: undefined 
+20:21:25.051 INFO  ===================================================================== 
+20:21:25.053 INFO  user command: movie-this   user arguments: st. elmos fire 
+20:21:25.223 INFO  Title: undefined 
+20:21:25.224 INFO  Year: undefined 
+20:21:25.224 INFO  Rated: undefined 
+20:21:25.225 INFO  Country: undefined 
+20:21:25.225 INFO  Language: undefined 
+20:21:25.226 INFO  Plot: undefined 
+20:21:25.226 INFO  Actors: undefined 
+20:22:53.182 INFO  ===================================================================== 
+20:22:53.184 INFO  user command: movie-this   user arguments: the taking of pellham one two three 
+20:22:53.481 INFO  Title: undefined 
+20:22:53.482 INFO  Year: undefined 
+20:22:53.482 INFO  Rated: undefined 
+20:22:53.483 INFO  Country: undefined 
+20:22:53.483 INFO  Language: undefined 
+20:22:53.484 INFO  Plot: undefined 
+20:22:53.484 INFO  Actors: undefined 
+20:23:22.709 INFO  ===================================================================== 
+20:23:22.714 INFO  user command: movie-this   user arguments: the taking of pelham one two three 
+20:23:23.074 INFO  Title: The Taking of Pelham One Two Three 
+20:23:23.075 INFO  Year: 1974 
+20:23:23.076 INFO  Rated: 7.7 
+20:23:23.078 INFO  Country: USA 
+20:23:23.078 INFO  Language: English, Spanish 
+20:23:23.079 INFO  Plot: In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away? 
+20:23:23.079 INFO  Actors: Walter Matthau, Robert Shaw, Martin Balsam, Hector Elizondo 
+20:23:23.081 INFO  Rotten Tomatoes: 100% 
+20:25:56.800 INFO  ===================================================================== 
+20:25:56.803 INFO  user command: spotify-this-song   user arguments: Aint No Sunshine 
+20:25:57.508 INFO  Artist: Bill Withers 
+20:25:57.510 INFO  Song: Ain't No Sunshine 
+20:25:57.512 INFO  URL: https://p.scdn.co/mp3-preview/2f56920743ab7da6d3d6331868dd23bbe72cd063?cid=82dd5f292e934394b2bba406f65b300b 
+20:25:57.551 INFO  Album: Just As I Am 
+20:28:06.099 INFO  ===================================================================== 
+20:28:06.102 INFO  user command: concert-this   user arguments: Red Hot Chili Peppers 
+20:28:06.145 INFO  https://rest.bandsintown.com/artists/Red+Hot+Chili+Peppers/events?app_id=codingbootcamp 
+20:28:06.741 INFO  Venue: The Formula 1 Singapore Grand Prix 
+20:28:06.743 INFO  City: Singapore 
+20:28:06.808 INFO  09/22/2019 
+20:28:47.141 INFO  ===================================================================== 
+20:28:47.144 INFO  user command: do-what-it-says   user arguments:  
+20:28:47.197 INFO  spotify-this-song 
+20:28:47.221 INFO  "I Want it That Way"
+ 
+20:29:01.699 INFO  ===================================================================== 
+20:29:01.702 INFO  user command: concert-this   user arguments: Red Hot Chili Peppers 
+20:29:01.739 INFO  https://rest.bandsintown.com/artists/Red Hot Chili Peppers/events?app_id=codingbootcamp 
+20:29:02.430 INFO  Venue: The Formula 1 Singapore Grand Prix 
+20:29:02.432 INFO  City: Singapore 
+20:29:02.505 INFO  09/22/2019 

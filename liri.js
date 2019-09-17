@@ -144,30 +144,30 @@ function doWhatItSays() {
 };
 
 //Setting up the Switch Statement based on the user input to complete the API request.
-//Switch Statement with logging information.
+//Switch Statement with logging information from user input.
 
 switch (inputChoice){
     case "concert-this":
         logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + userInput[3]);
+        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         bandsInTown();
         break;
     
     case "spotify-this-song":
         logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + userInput[3]);
+        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         songChoice();
         break;
     
     case "movie-this":
         logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + userInput[3]);
+        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         movieChoice();
         break;
 
     case "do-what-it-says":
         logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + userInput[3]);
+        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         doWhatItSays();
         break;
 }
