@@ -1,658 +1,181 @@
-23:44:10.600 INFO  ===================================================================== 
-23:44:10.603 INFO  user command: spotify-this-song   User arguments: undefined 
-23:44:11.217 INFO  Artist: Ace of Base 
-23:44:11.219 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
-23:44:11.222 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
-23:44:11.275 INFO  Album: The Sign (US Album) [Remastered] 
-23:44:39.834 INFO  ===================================================================== 
-23:44:39.837 INFO  user command: spotify-this-song   User arguments: metallica 
-23:44:40.434 INFO  Artist: Sabaton 
-23:44:40.436 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
-23:44:40.437 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
-23:44:40.474 INFO  Album: Heroes (Bonus Version) 
-23:45:30.138 INFO  ===================================================================== 
-23:45:30.142 INFO  user command: concert-this   User arguments: janet 
-23:45:30.144 INFO  https://rest.bandsintown.com/artists/janet+jackson/events?app_id=codingbootcamp 
-23:45:30.633 INFO  Venue: Chase Center 
-23:45:30.635 INFO  City: San Francisco 
-23:45:30.655 INFO  09/21/2019 
-23:45:54.225 INFO  ===================================================================== 
-23:45:54.228 INFO  user command: concert-this   User arguments: undefined 
-23:45:54.271 INFO  https://rest.bandsintown.com/artists//events?app_id=codingbootcamp 
-00:02:01.863 INFO  ===================================================================== 
-00:02:01.867 INFO  user command: spotify-this-song   User arguments: metallica 
-00:02:02.458 INFO  Artist: Sabaton 
-00:02:02.461 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
-00:02:02.463 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
-00:02:02.498 INFO  Album: Heroes (Bonus Version) 
-00:03:03.060 INFO  ===================================================================== 
-00:03:03.063 INFO  user command: spotify-this-song   User arguments: metallica 
-00:03:03.643 INFO  Artist: Sabaton 
-00:03:03.646 INFO  Song: For Whom the Bell Tolls - Metallica Cover, Bonus Track 
-00:03:03.670 INFO  URL: https://p.scdn.co/mp3-preview/91f54ce1156ecef80e70d9a188afcc9a4af7381e?cid=82dd5f292e934394b2bba406f65b300b 
-00:03:03.673 INFO  Album: Heroes (Bonus Version) 
-00:04:31.670 INFO  ===================================================================== 
-00:04:31.674 INFO  user command: spotify-this-song   User arguments: undefined 
-00:04:32.270 INFO  Artist: Ace of Base 
-00:04:32.272 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
-00:04:32.273 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
-00:04:32.294 INFO  Album: The Sign (US Album) [Remastered] 
-00:05:00.639 INFO  ===================================================================== 
-00:05:00.642 INFO  user command: movie-this   User arguments: undefined 
-00:05:00.845 INFO  Title: Mr. Nobody 
-00:05:00.848 INFO  Year: 2009 
-00:05:00.850 INFO  Rated: 7.8 
-00:05:00.870 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-00:05:00.874 INFO  Language: English, Mohawk 
-00:05:00.875 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-00:05:00.905 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-00:05:00.907 INFO  Rotten Tomatoes: 66% 
-00:05:24.772 INFO  ===================================================================== 
-00:05:24.775 INFO  user command: concert-this   User arguments: undefined 
-00:05:24.777 INFO  https://rest.bandsintown.com/artists/James Brown/events?app_id=codingbootcamp 
-00:08:50.872 INFO  ===================================================================== 
-00:08:50.877 INFO  user command: concert-this   User arguments: undefined 
-00:08:50.879 INFO  https://rest.bandsintown.com/artists/Drake/events?app_id=codingbootcamp 
-00:12:21.682 INFO  ===================================================================== 
-00:12:21.686 INFO  user command: concert-this   User arguments: undefined 
-00:12:21.690 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
-00:12:22.626 INFO  Venue: Zilker Park 
-00:12:22.629 INFO  City: Austin 
-00:12:22.663 INFO  10/04/2019 
-00:13:39.192 INFO  ===================================================================== 
-00:13:39.196 INFO  user command: do-what-it-says   User arguments: undefined 
-00:13:39.244 INFO  spotify-this-song 
-00:13:39.269 INFO  "I Want it That Way"
- 
-00:21:52.729 INFO  ===================================================================== 
-00:21:52.751 INFO  user command: concert-this   user arguments: undefined 
-00:21:52.797 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
-00:21:53.414 INFO  Venue: Zilker Park 
-00:21:53.416 INFO  City: Austin 
-00:21:53.440 INFO  10/04/2019 
-00:22:19.866 INFO  ===================================================================== 
-00:22:19.868 INFO  user command: spotify-this-song   user arguments: undefined 
-00:22:20.605 INFO  Artist: Ace of Base 
-00:22:20.608 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
-00:22:20.610 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
-00:22:20.622 INFO  Album: The Sign (US Album) [Remastered] 
-00:22:37.964 INFO  ===================================================================== 
-00:22:37.968 INFO  user command: movie-this   user arguments: undefined 
-00:22:38.215 INFO  Title: Mr. Nobody 
-00:22:38.219 INFO  Year: 2009 
-00:22:38.221 INFO  Rated: 7.8 
-00:22:38.234 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-00:22:38.237 INFO  Language: English, Mohawk 
-00:22:38.239 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-00:22:38.258 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-00:22:38.275 INFO  Rotten Tomatoes: 66% 
-00:23:00.964 INFO  ===================================================================== 
-00:23:00.980 INFO  user command: do-what-it-says   user arguments: undefined 
-00:23:01.069 INFO  spotify-this-song 
-00:23:01.092 INFO  "I Want it That Way"
- 
-00:23:25.179 INFO  ===================================================================== 
-00:23:25.183 INFO  user command: movie-this   user arguments: heat 
-00:23:25.434 INFO  Title: Heat 
-00:23:25.436 INFO  Year: 1995 
-00:23:25.444 INFO  Rated: 8.2 
-00:23:25.450 INFO  Country: USA 
-00:23:25.460 INFO  Language: English, Spanish 
-00:23:25.464 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
-00:23:25.478 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
-00:23:25.500 INFO  Rotten Tomatoes: 86% 
-00:23:45.121 INFO  ===================================================================== 
-00:23:45.141 INFO  user command: spotify-this-song   user arguments: beat it 
-00:23:45.824 INFO  Artist: Michael Jackson 
-00:23:45.826 INFO  Song: Beat It - Single Version 
-00:23:45.829 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
-00:23:45.840 INFO  Album: Thriller 25 Super Deluxe Edition 
-00:24:12.751 INFO  ===================================================================== 
-00:24:12.754 INFO  user command: concert-this   user arguments: janet jackson 
-00:24:12.757 INFO  https://rest.bandsintown.com/artists/janet jackson/events?app_id=codingbootcamp 
-00:24:13.340 INFO  Venue: Chase Center 
-00:24:13.343 INFO  City: San Francisco 
-00:24:13.361 INFO  09/21/2019 
-00:41:56.934 INFO  ===================================================================== 
-00:41:56.937 INFO  user command: concert-this   user arguments: undefined 
-00:41:56.939 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
-00:41:57.389 INFO  Venue: Zilker Park 
-00:41:57.391 INFO  City: Austin 
-00:41:57.412 INFO  10/04/2019 
-00:48:46.104 INFO  ===================================================================== 
-00:48:46.105 INFO  user command: concert-this   user arguments: moroon 5 
-00:48:46.106 INFO  https://rest.bandsintown.com/artists/moroon 5/events?app_id=codingbootcamp 
-00:49:00.212 INFO  ===================================================================== 
-00:49:00.214 INFO  user command: concert-this   user arguments: metallica 
-00:49:00.215 INFO  https://rest.bandsintown.com/artists/metallica/events?app_id=codingbootcamp 
-00:49:00.902 INFO  Venue: Optus Stadium 
-00:49:00.903 INFO  City: Burswood 
-00:49:00.917 INFO  10/17/2019 
-00:49:48.381 INFO  ===================================================================== 
-00:49:48.383 INFO  user command: spotify-this-song   user arguments: Thriller 
-00:49:49.077 INFO  Artist: Michael Jackson 
-00:49:49.078 INFO  Song: Thriller 
-00:49:49.079 INFO  URL: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=82dd5f292e934394b2bba406f65b300b 
-00:49:49.079 INFO  Album: Scream 
-00:50:13.152 INFO  ===================================================================== 
-00:50:13.153 INFO  user command: movie-this   user arguments: heat 
-00:50:13.332 INFO  Title: Heat 
-00:50:13.333 INFO  Year: 1995 
-00:50:13.333 INFO  Rated: 8.2 
-00:50:13.334 INFO  Country: USA 
-00:50:13.334 INFO  Language: English, Spanish 
-00:50:13.334 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
-00:50:13.335 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
-00:50:13.335 INFO  Rotten Tomatoes: 86% 
-00:50:40.685 INFO  ===================================================================== 
-00:50:40.687 INFO  user command: do-what-it-says   user arguments: undefined 
-00:50:40.793 INFO  spotify-this-song 
-00:50:40.794 INFO  "I Want it That Way"
- 
-00:51:08.010 INFO  ===================================================================== 
-00:51:08.012 INFO  user command: spotify-this-song   user arguments: undefined 
-00:51:08.612 INFO  Artist: Ace of Base 
-00:51:08.613 INFO  Song: Mr Ace - Demo 1991 Bonus Track 
-00:51:08.613 INFO  URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=82dd5f292e934394b2bba406f65b300b 
-00:51:08.614 INFO  Album: The Sign (US Album) [Remastered] 
-00:51:24.245 INFO  ===================================================================== 
-00:51:24.249 INFO  user command: movie-this   user arguments: undefined 
-00:51:24.434 INFO  Title: Mr. Nobody 
-00:51:24.438 INFO  Year: 2009 
-00:51:24.441 INFO  Rated: 7.8 
-00:51:24.441 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-00:51:24.442 INFO  Language: English, Mohawk 
-00:51:24.443 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-00:51:24.443 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-00:51:24.444 INFO  Rotten Tomatoes: 66% 
-00:51:52.273 INFO  ===================================================================== 
-00:51:52.274 INFO  user command: concert-this   user arguments: undefined 
-00:51:52.275 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
-00:51:52.798 INFO  Venue: Zilker Park 
-00:51:52.799 INFO  City: Austin 
-00:51:52.813 INFO  10/04/2019 
-00:52:57.601 INFO  ===================================================================== 
-00:52:57.604 INFO  user command: concert-this   user arguments: undefined 
-00:52:57.617 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
-00:52:58.057 INFO  Venue: Zilker Park 
-00:52:58.060 INFO  City: Austin 
-00:52:58.079 INFO  10/04/2019 
-01:42:20.174 INFO  ===================================================================== 
-01:42:20.182 INFO  user command: concert-this   user arguments: janet jackson 
-01:42:20.185 INFO  https://rest.bandsintown.com/artists/janet jackson/events?app_id=codingbootcamp 
-01:42:20.763 INFO  Venue: Chase Center 
-01:42:20.766 INFO  City: San Francisco 
-01:42:20.787 INFO  09/21/2019 
-21:39:19.278 INFO  ===================================================================== 
-21:39:19.281 INFO  user command: concert-this   user arguments: michae 
-21:39:19.283 INFO  https://rest.bandsintown.com/artists/michae+jackson/events?app_id=codingbootcamp 
-21:40:28.156 INFO  ===================================================================== 
-21:40:28.158 INFO  user command: concert-this   user arguments: michael 
-21:40:28.159 INFO  https://rest.bandsintown.com/artists/michael+jackson/events?app_id=codingbootcamp 
-22:54:14.991 INFO  ===================================================================== 
-22:54:14.994 INFO  user command: movie-this   user arguments: training day 
-22:55:59.339 INFO  ===================================================================== 
-22:55:59.341 INFO  user command: movie-this   user arguments: training 
-22:55:59.549 INFO  Title: Training Day 
-22:55:59.550 INFO  Year: 2001 
-22:55:59.551 INFO  Rated: 7.7 
-22:55:59.551 INFO  Country: USA 
-22:55:59.552 INFO  Language: Greek, English, Russian, Spanish, Korean 
-22:55:59.552 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
-22:55:59.553 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
-22:55:59.553 INFO  Rotten Tomatoes: 72% 
-22:56:34.679 INFO  ===================================================================== 
-22:56:34.682 INFO  user command: movie-this   user arguments: training 
-22:56:34.896 INFO  Title: Training Day 
-22:56:34.899 INFO  Year: 2001 
-22:56:34.900 INFO  Rated: 7.7 
-22:56:34.936 INFO  Country: USA 
-22:56:34.938 INFO  Language: Greek, English, Russian, Spanish, Korean 
-22:56:34.940 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
-22:56:34.987 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
-22:56:35.041 INFO  Rotten Tomatoes: 72% 
-22:57:17.567 INFO  ===================================================================== 
-22:57:17.569 INFO  user command: movie-this   user arguments: training day 
-22:57:47.742 INFO  ===================================================================== 
-22:57:47.744 INFO  user command: movie-this   user arguments: the firm 
-22:57:47.966 INFO  Title: The Firm 
-22:57:47.969 INFO  Year: 1993 
-22:57:47.970 INFO  Rated: 6.8 
-22:57:48.014 INFO  Country: USA 
-22:57:48.016 INFO  Language: English 
-22:57:48.018 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-22:57:48.059 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-22:57:48.062 INFO  Rotten Tomatoes: 75% 
-22:58:00.145 INFO  ===================================================================== 
-22:58:00.148 INFO  user command: movie-this   user arguments: the 
-22:58:07.493 INFO  ===================================================================== 
-22:58:07.496 INFO  user command: movie-this   user arguments: the 
-22:58:22.286 INFO  ===================================================================== 
-22:58:22.289 INFO  user command: movie-this   user arguments: the firm 
-22:58:22.525 INFO  Title: The Firm 
-22:58:22.527 INFO  Year: 1993 
-22:58:22.529 INFO  Rated: 6.8 
-22:58:22.570 INFO  Country: USA 
-22:58:22.637 INFO  Language: English 
-22:58:22.690 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-22:58:22.738 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-22:58:22.779 INFO  Rotten Tomatoes: 75% 
-22:58:45.801 INFO  ===================================================================== 
-22:58:45.803 INFO  user command: movie-this   user arguments: training day 
-22:59:05.896 INFO  ===================================================================== 
-22:59:05.900 INFO  user command: movie-this   user arguments: the firm 
-22:59:06.257 INFO  Title: The Firm 
-22:59:06.258 INFO  Year: 1993 
-22:59:06.259 INFO  Rated: 6.8 
-22:59:06.259 INFO  Country: USA 
-22:59:06.260 INFO  Language: English 
-22:59:06.260 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-22:59:06.261 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-22:59:06.261 INFO  Rotten Tomatoes: 75% 
-22:59:20.102 INFO  ===================================================================== 
-22:59:20.104 INFO  user command: movie-this   user arguments: the 
-23:00:47.812 INFO  ===================================================================== 
-23:00:47.814 INFO  user command: spotify-this-song   user arguments: beat 
-23:00:48.499 INFO  Artist: Michael Jackson 
-23:00:48.500 INFO  Song: Beat It - Single Version 
-23:00:48.501 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
-23:00:48.506 INFO  Album: Thriller 25 Super Deluxe Edition 
-23:01:01.005 INFO  ===================================================================== 
-23:01:01.008 INFO  user command: spotify-this-song   user arguments: beat it 
-23:01:01.643 INFO  Artist: Michael Jackson 
-23:01:01.644 INFO  Song: Beat It - Single Version 
-23:01:01.645 INFO  URL: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
-23:01:01.645 INFO  Album: Thriller 25 Super Deluxe Edition 
-23:01:25.230 INFO  ===================================================================== 
-23:01:25.232 INFO  user command: movie-this   user arguments: heat 
-23:01:35.331 INFO  ===================================================================== 
-23:01:35.333 INFO  user command: movie-this   user arguments: heat 
-23:01:57.469 INFO  ===================================================================== 
-23:01:57.475 INFO  user command: movie-this   user arguments: heat 
-23:02:20.107 INFO  ===================================================================== 
-23:02:20.108 INFO  user command: movie-this   user arguments: heat 
-23:02:29.258 INFO  ===================================================================== 
-23:02:29.261 INFO  user command: movie-this   user arguments: undefined 
-23:02:29.476 INFO  Title: Mr. Nobody 
-23:02:29.477 INFO  Year: 2009 
-23:02:29.478 INFO  Rated: 7.8 
-23:02:29.478 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
-23:02:29.479 INFO  Language: English, Mohawk 
-23:02:29.479 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
-23:02:29.479 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
-23:02:29.480 INFO  Rotten Tomatoes: 66% 
-23:02:38.431 INFO  ===================================================================== 
-23:02:38.432 INFO  user command: movie-this   user arguments: heat 
-23:04:05.503 INFO  ===================================================================== 
-23:04:05.506 INFO  user command: movie-this   user arguments: the firm 
-23:04:05.818 INFO  Title: The Firm 
-23:04:05.881 INFO  Year: 1993 
-23:04:05.936 INFO  Rated: 6.8 
-23:04:06.005 INFO  Country: USA 
-23:04:06.053 INFO  Language: English 
-23:04:06.055 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:04:06.058 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:04:06.117 INFO  Rotten Tomatoes: 75% 
-23:04:17.100 INFO  ===================================================================== 
-23:04:17.102 INFO  user command: movie-this   user arguments: the 
-23:04:17.410 INFO  Title: The Firm 
-23:04:17.412 INFO  Year: 1993 
-23:04:17.414 INFO  Rated: 6.8 
-23:04:17.448 INFO  Country: USA 
-23:04:17.451 INFO  Language: English 
-23:04:17.453 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:04:17.454 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:04:17.535 INFO  Rotten Tomatoes: 75% 
-23:04:34.819 INFO  ===================================================================== 
-23:04:34.821 INFO  user command: movie-this   user arguments: heat 
-23:04:35.137 INFO  Title: Heat 
-23:04:35.138 INFO  Year: 1995 
-23:04:35.139 INFO  Rated: 8.2 
-23:04:35.139 INFO  Country: USA 
-23:04:35.140 INFO  Language: English, Spanish 
-23:04:35.140 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
-23:04:35.141 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
-23:04:35.141 INFO  Rotten Tomatoes: 86% 
-23:05:07.461 INFO  ===================================================================== 
-23:05:07.463 INFO  user command: movie-this   user arguments: heat 
-23:05:07.660 INFO  Title: Heat 
-23:05:07.660 INFO  Year: 1995 
-23:05:07.661 INFO  Rated: 8.2 
-23:05:07.661 INFO  Country: USA 
-23:05:07.661 INFO  Language: English, Spanish 
-23:05:07.662 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
-23:05:07.662 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
-23:05:07.663 INFO  Rotten Tomatoes: 86% 
-23:05:21.915 INFO  ===================================================================== 
-23:05:21.917 INFO  user command: movie-this   user arguments: the 
-23:05:22.109 INFO  Title: The Firm 
-23:05:22.110 INFO  Year: 1993 
-23:05:22.110 INFO  Rated: 6.8 
-23:05:22.116 INFO  Country: USA 
-23:05:22.130 INFO  Language: English 
-23:05:22.130 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:05:22.131 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:05:22.131 INFO  Rotten Tomatoes: 75% 
-23:08:01.361 INFO  ===================================================================== 
-23:08:01.364 INFO  user command: movie-this   user arguments: the 
-23:08:01.623 INFO  Title: The Firm 
-23:08:01.630 INFO  Year: 1993 
-23:08:01.671 INFO  Rated: 6.8 
-23:08:01.712 INFO  Country: USA 
-23:08:01.761 INFO  Language: English 
-23:08:01.799 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:08:01.838 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:08:01.841 INFO  Rotten Tomatoes: 75% 
-23:08:16.458 INFO  ===================================================================== 
-23:08:16.460 INFO  user command: movie-this   user arguments: the firm 
-23:08:16.684 INFO  Title: The Firm 
-23:08:16.687 INFO  Year: 1993 
-23:08:16.688 INFO  Rated: 6.8 
-23:08:16.724 INFO  Country: USA 
-23:08:16.773 INFO  Language: English 
-23:08:16.803 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:08:16.838 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:08:16.841 INFO  Rotten Tomatoes: 75% 
-23:08:29.510 INFO  ===================================================================== 
-23:08:29.513 INFO  user command: movie-this   user arguments: training 
-23:08:29.748 INFO  Title: Training Day 
-23:08:29.750 INFO  Year: 2001 
-23:08:29.751 INFO  Rated: 7.7 
-23:08:29.786 INFO  Country: USA 
-23:08:29.840 INFO  Language: Greek, English, Russian, Spanish, Korean 
-23:08:29.843 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
-23:08:29.848 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
-23:08:29.850 INFO  Rotten Tomatoes: 72% 
-23:08:41.465 INFO  ===================================================================== 
-23:08:41.468 INFO  user command: movie-this   user arguments: training day 
-23:08:41.776 INFO  Title: Training Day 
-23:08:41.784 INFO  Year: 2001 
-23:08:41.786 INFO  Rated: 7.7 
-23:08:41.830 INFO  Country: USA 
-23:08:41.835 INFO  Language: Greek, English, Russian, Spanish, Korean 
-23:08:41.895 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
-23:08:41.945 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
-23:08:41.948 INFO  Rotten Tomatoes: 72% 
-23:21:00.927 INFO  ===================================================================== 
-23:21:00.930 INFO  user command: movie-this   user arguments: training 
-23:21:01.132 INFO  Title: Training Day 
-23:21:01.134 INFO  Year: 2001 
-23:21:01.136 INFO  Rated: 7.7 
-23:21:01.169 INFO  Country: USA 
-23:21:01.173 INFO  Language: Greek, English, Russian, Spanish, Korean 
-23:21:01.224 INFO  Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the L.A.P.D. with a rogue detective who isn't what he appears to be. 
-23:21:01.230 INFO  Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
-23:21:01.233 INFO  Rotten Tomatoes: 72% 
-23:21:09.435 INFO  ===================================================================== 
-23:21:09.438 INFO  user command: movie-this   user arguments: the 
-23:21:09.672 INFO  Title: The Firm 
-23:21:09.674 INFO  Year: 1993 
-23:21:09.676 INFO  Rated: 6.8 
-23:21:09.677 INFO  Country: USA 
-23:21:09.714 INFO  Language: English 
-23:21:09.716 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:21:09.761 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:21:09.844 INFO  Rotten Tomatoes: 75% 
-23:21:28.597 INFO  ===================================================================== 
-23:21:28.600 INFO  user command: concert-this   user arguments: RZA 
-23:21:28.602 INFO  https://rest.bandsintown.com/artists/RZA/events?app_id=codingbootcamp 
-23:21:29.188 INFO  Venue: St. George Theatre 
-23:21:29.191 INFO  City: Staten Island 
-23:21:29.208 INFO  11/09/2019 
-23:21:57.162 INFO  ===================================================================== 
-23:21:57.164 INFO  user command: do-what-it-says   user arguments: undefined 
-23:21:57.214 INFO  spotify-this-song 
-23:21:57.233 INFO  "I Want it That Way"
- 
-23:28:58.499 INFO  ===================================================================== 
-23:28:58.502 INFO  user command: movie-this   user arguments: zzzzzzzzz 
-23:28:58.786 INFO  Title: undefined 
-23:28:58.788 INFO  Year: undefined 
-23:28:58.790 INFO  Rated: undefined 
-23:28:58.791 INFO  Country: undefined 
-23:28:58.792 INFO  Language: undefined 
-23:28:58.793 INFO  Plot: undefined 
-23:28:58.795 INFO  Actors: undefined 
-23:30:26.362 INFO  ===================================================================== 
-23:30:26.365 INFO  user command: concert-this   user arguments: zzzzzzzzz 
-23:30:26.367 INFO  https://rest.bandsintown.com/artists/zzzzzzzzz/events?app_id=codingbootcamp 
-23:31:03.527 INFO  ===================================================================== 
-23:31:03.529 INFO  user command: spotify-this-song   user arguments: zzzzzzzzz 
-23:31:04.214 INFO  Artist: Roza Roza 
-23:31:04.216 INFO  Song: zzzzzzzzz 
-23:31:04.218 INFO  URL: https://p.scdn.co/mp3-preview/4a852560740ccbc7f511849cf72a4da13095d8fd?cid=82dd5f292e934394b2bba406f65b300b 
-23:31:04.252 INFO  Album: Embassy Patterns 
-23:31:27.987 INFO  ===================================================================== 
-23:31:27.990 INFO  user command: spotify-this-song   user arguments: asasasasasasasas 
-23:31:28.500 INFO  NOTHING FOUND 
-23:52:16.454 INFO  ===================================================================== 
-23:52:16.457 INFO  user command: spotify-this-song   user arguments: asasasasasasasas 
-23:52:17.014 INFO  NOTHING FOUND 
-23:52:37.216 INFO  ===================================================================== 
-23:52:37.219 INFO  user command: movie-this   user arguments: asasasasasasasas 
-23:52:37.490 INFO  Title: undefined 
-23:52:37.495 INFO  Year: undefined 
-23:52:37.497 INFO  Rated: undefined 
-23:52:37.528 INFO  Country: undefined 
-23:52:37.541 INFO  Language: undefined 
-23:52:37.544 INFO  Plot: undefined 
-23:52:37.578 INFO  Actors: undefined 
-23:52:59.612 INFO  ===================================================================== 
-23:52:59.615 INFO  user command: concert-this   user arguments: asasasasasasasas 
-23:52:59.618 INFO  https://rest.bandsintown.com/artists/asasasasasasasas/events?app_id=codingbootcamp 
-23:53:20.486 INFO  ===================================================================== 
-23:53:20.488 INFO  user command: do-what-it-says   user arguments: undefined 
-23:53:20.551 INFO  spotify-this-song 
-23:53:20.557 INFO  "I Want it That Way"
- 
-23:53:33.473 INFO  ===================================================================== 
-23:53:33.475 INFO  user command: spotify-this-song   user arguments: zzzzzzzzz 
-23:53:34.029 INFO  Artist: Roza Roza 
-23:53:34.032 INFO  Song: zzzzzzzzz 
-23:53:34.033 INFO  URL: https://p.scdn.co/mp3-preview/4a852560740ccbc7f511849cf72a4da13095d8fd?cid=82dd5f292e934394b2bba406f65b300b 
-23:53:34.076 INFO  Album: Embassy Patterns 
-23:53:43.684 INFO  ===================================================================== 
-23:53:43.688 INFO  user command: movie-this   user arguments: the 
-23:53:43.907 INFO  Title: The Firm 
-23:53:43.909 INFO  Year: 1993 
-23:53:43.911 INFO  Rated: 6.8 
-23:53:43.956 INFO  Country: USA 
-23:53:43.986 INFO  Language: English 
-23:53:44.048 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-23:53:44.049 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-23:53:44.051 INFO  Rotten Tomatoes: 75% 
-23:53:53.402 INFO  ===================================================================== 
-23:53:53.405 INFO  user command: movie-this   user arguments: thebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb 
-23:53:53.645 INFO  Title: undefined 
-23:53:53.647 INFO  Year: undefined 
-23:53:53.648 INFO  Rated: undefined 
-23:53:53.651 INFO  Country: undefined 
-23:53:53.652 INFO  Language: undefined 
-23:53:53.740 INFO  Plot: undefined 
-23:53:53.839 INFO  Actors: undefined 
-23:54:11.503 INFO  ===================================================================== 
-23:54:11.506 INFO  user command: spotify-this-song   user arguments: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 
-23:54:12.066 INFO  NOTHING FOUND 
-23:54:35.997 INFO  ===================================================================== 
-23:54:36.001 INFO  user command: spotify-this-song   user arguments: i 
-23:54:36.637 INFO  Artist: The Jackson 5 
-23:54:36.640 INFO  Song: I Want You Back 
-23:54:36.641 INFO  URL: null 
-23:54:36.682 INFO  Album: Motown Legends: Jackson 5 - Never Can Say Goodbye 
-23:57:58.145 INFO  ===================================================================== 
-23:57:58.148 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
-23:57:58.150 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
-23:58:36.563 INFO  ===================================================================== 
-23:58:36.566 INFO  user command: movie-this   user arguments: thebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb 
-23:58:36.805 INFO  Title: undefined 
-23:58:36.807 INFO  Year: undefined 
-23:58:36.809 INFO  Rated: undefined 
-23:58:36.846 INFO  Country: undefined 
-23:58:36.849 INFO  Language: undefined 
-23:58:36.851 INFO  Plot: undefined 
-23:58:36.854 INFO  Actors: undefined 
-23:59:33.694 INFO  ===================================================================== 
-23:59:33.697 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
-23:59:33.731 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
-00:00:24.041 INFO  ===================================================================== 
-00:00:24.044 INFO  user command: concert-this   user arguments: asasasasasasasasoooooooooooo 
-00:00:24.047 INFO  https://rest.bandsintown.com/artists/asasasasasasasasoooooooooooo/events?app_id=codingbootcamp 
-00:00:38.908 INFO  ===================================================================== 
-00:00:38.911 INFO  user command: movie-this   user arguments: asasasasasasasasoooooooooooo 
-00:00:39.245 INFO  Title: undefined 
-00:00:39.247 INFO  Year: undefined 
-00:00:39.248 INFO  Rated: undefined 
-00:00:39.284 INFO  Country: undefined 
-00:00:39.323 INFO  Language: undefined 
-00:00:39.326 INFO  Plot: undefined 
-00:00:39.329 INFO  Actors: undefined 
-00:00:56.439 INFO  ===================================================================== 
-00:00:56.442 INFO  user command: spotify-this-song   user arguments: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh 
-00:00:56.998 INFO  NOTHING FOUND 
-20:02:28.997 INFO  ===================================================================== 
-20:02:29.000 INFO  user command: movie-this   user arguments: C:\Program Files\nodejs\node.exec:\Users\clifton\Documents\CodingBootcamp\Projects2019\liri-node-app\lirimovie-thisthefirm 
-20:02:29.262 INFO  Title: The Firm 
-20:02:29.264 INFO  Year: 1993 
-20:02:29.267 INFO  Rated: 6.8 
-20:02:29.306 INFO  Country: USA 
-20:02:29.309 INFO  Language: English 
-20:02:29.353 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:02:29.356 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:02:29.421 INFO  Rotten Tomatoes: 75% 
-20:05:06.108 INFO  ===================================================================== 
-20:05:06.111 INFO  user command: movie-this   user arguments: movie-this,the,firm 
-20:05:06.326 INFO  Title: The Firm 
-20:05:06.329 INFO  Year: 1993 
-20:05:06.332 INFO  Rated: 6.8 
-20:05:06.386 INFO  Country: USA 
-20:05:06.433 INFO  Language: English 
-20:05:06.436 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:05:06.439 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:05:06.509 INFO  Rotten Tomatoes: 75% 
-20:08:06.439 INFO  ===================================================================== 
-20:08:06.444 INFO  user command: movie-this   user arguments: the,firm 
-20:08:06.718 INFO  Title: The Firm 
-20:08:06.724 INFO  Year: 1993 
-20:08:06.768 INFO  Rated: 6.8 
-20:08:06.810 INFO  Country: USA 
-20:08:06.812 INFO  Language: English 
-20:08:06.842 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:08:06.845 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:08:06.846 INFO  Rotten Tomatoes: 75% 
-20:08:34.171 INFO  ===================================================================== 
-20:08:34.174 INFO  user command: movie-this   user arguments: the firm 
-20:08:34.485 INFO  Title: The Firm 
-20:08:34.487 INFO  Year: 1993 
-20:08:34.523 INFO  Rated: 6.8 
-20:08:34.527 INFO  Country: USA 
-20:08:34.530 INFO  Language: English 
-20:08:34.533 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:08:34.535 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:08:34.536 INFO  Rotten Tomatoes: 75% 
-20:09:08.540 INFO  ===================================================================== 
-20:09:08.543 INFO  user command: movie-this   user arguments: a,b,c,d,r,t 
-20:09:08.859 INFO  Title: undefined 
-20:09:08.861 INFO  Year: undefined 
-20:09:08.863 INFO  Rated: undefined 
-20:09:08.924 INFO  Country: undefined 
-20:09:08.945 INFO  Language: undefined 
-20:09:08.992 INFO  Plot: undefined 
-20:09:09.051 INFO  Actors: undefined 
-20:14:53.302 INFO  ===================================================================== 
-20:14:53.305 INFO  user command: movie-this   user arguments: a b c d r t 
-20:14:53.565 INFO  Title: undefined 
-20:14:53.566 INFO  Year: undefined 
-20:14:53.569 INFO  Rated: undefined 
-20:14:53.667 INFO  Country: undefined 
-20:14:53.721 INFO  Language: undefined 
-20:14:53.725 INFO  Plot: undefined 
-20:14:53.727 INFO  Actors: undefined 
-20:15:21.155 INFO  ===================================================================== 
-20:15:21.158 INFO  user command: movie-this   user arguments: the firm 
-20:15:21.424 INFO  Title: The Firm 
-20:15:21.433 INFO  Year: 1993 
-20:15:21.547 INFO  Rated: 6.8 
-20:15:21.659 INFO  Country: USA 
-20:15:21.703 INFO  Language: English 
-20:15:21.758 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:15:21.764 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:15:21.811 INFO  Rotten Tomatoes: 75% 
-20:15:28.542 INFO  ===================================================================== 
-20:15:28.552 INFO  user command: movie-this   user arguments: the firm 
-20:15:28.867 INFO  Title: The Firm 
-20:15:28.869 INFO  Year: 1993 
-20:15:28.870 INFO  Rated: 6.8 
-20:15:28.916 INFO  Country: USA 
-20:15:28.978 INFO  Language: English 
-20:15:29.066 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
-20:15:29.114 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
-20:15:29.117 INFO  Rotten Tomatoes: 75% 
-20:19:30.736 INFO  ===================================================================== 
-20:19:30.738 INFO  user command: movie-this   user arguments: st. elmos fire 
-20:19:31.040 INFO  Title: undefined 
-20:19:31.040 INFO  Year: undefined 
-20:19:31.041 INFO  Rated: undefined 
-20:19:31.042 INFO  Country: undefined 
-20:19:31.042 INFO  Language: undefined 
-20:19:31.043 INFO  Plot: undefined 
-20:19:31.043 INFO  Actors: undefined 
-20:21:01.201 INFO  ===================================================================== 
-20:21:01.203 INFO  user command: movie-this   user arguments: st. elmos fire 
-20:21:01.462 INFO  Title: undefined 
-20:21:01.464 INFO  Year: undefined 
-20:21:01.465 INFO  Rated: undefined 
-20:21:01.465 INFO  Country: undefined 
-20:21:01.466 INFO  Language: undefined 
-20:21:01.466 INFO  Plot: undefined 
-20:21:01.467 INFO  Actors: undefined 
-20:21:25.051 INFO  ===================================================================== 
-20:21:25.053 INFO  user command: movie-this   user arguments: st. elmos fire 
-20:21:25.223 INFO  Title: undefined 
-20:21:25.224 INFO  Year: undefined 
-20:21:25.224 INFO  Rated: undefined 
-20:21:25.225 INFO  Country: undefined 
-20:21:25.225 INFO  Language: undefined 
-20:21:25.226 INFO  Plot: undefined 
-20:21:25.226 INFO  Actors: undefined 
-20:22:53.182 INFO  ===================================================================== 
-20:22:53.184 INFO  user command: movie-this   user arguments: the taking of pellham one two three 
-20:22:53.481 INFO  Title: undefined 
-20:22:53.482 INFO  Year: undefined 
-20:22:53.482 INFO  Rated: undefined 
-20:22:53.483 INFO  Country: undefined 
-20:22:53.483 INFO  Language: undefined 
-20:22:53.484 INFO  Plot: undefined 
-20:22:53.484 INFO  Actors: undefined 
-20:23:22.709 INFO  ===================================================================== 
-20:23:22.714 INFO  user command: movie-this   user arguments: the taking of pelham one two three 
-20:23:23.074 INFO  Title: The Taking of Pelham One Two Three 
-20:23:23.075 INFO  Year: 1974 
-20:23:23.076 INFO  Rated: 7.7 
-20:23:23.078 INFO  Country: USA 
-20:23:23.078 INFO  Language: English, Spanish 
-20:23:23.079 INFO  Plot: In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away? 
-20:23:23.079 INFO  Actors: Walter Matthau, Robert Shaw, Martin Balsam, Hector Elizondo 
-20:23:23.081 INFO  Rotten Tomatoes: 100% 
-20:25:56.800 INFO  ===================================================================== 
-20:25:56.803 INFO  user command: spotify-this-song   user arguments: Aint No Sunshine 
-20:25:57.508 INFO  Artist: Bill Withers 
-20:25:57.510 INFO  Song: Ain't No Sunshine 
-20:25:57.512 INFO  URL: https://p.scdn.co/mp3-preview/2f56920743ab7da6d3d6331868dd23bbe72cd063?cid=82dd5f292e934394b2bba406f65b300b 
-20:25:57.551 INFO  Album: Just As I Am 
-20:28:06.099 INFO  ===================================================================== 
-20:28:06.102 INFO  user command: concert-this   user arguments: Red Hot Chili Peppers 
-20:28:06.145 INFO  https://rest.bandsintown.com/artists/Red+Hot+Chili+Peppers/events?app_id=codingbootcamp 
-20:28:06.741 INFO  Venue: The Formula 1 Singapore Grand Prix 
-20:28:06.743 INFO  City: Singapore 
-20:28:06.808 INFO  09/22/2019 
-20:28:47.141 INFO  ===================================================================== 
-20:28:47.144 INFO  user command: do-what-it-says   user arguments:  
-20:28:47.197 INFO  spotify-this-song 
-20:28:47.221 INFO  "I Want it That Way"
- 
-20:29:01.699 INFO  ===================================================================== 
-20:29:01.702 INFO  user command: concert-this   user arguments: Red Hot Chili Peppers 
-20:29:01.739 INFO  https://rest.bandsintown.com/artists/Red Hot Chili Peppers/events?app_id=codingbootcamp 
-20:29:02.430 INFO  Venue: The Formula 1 Singapore Grand Prix 
-20:29:02.432 INFO  City: Singapore 
-20:29:02.505 INFO  09/22/2019 
+20:27:10.780 INFO  ===================================================================== 
+20:27:10.803 INFO  user command: concert-this   user arguments:  
+20:27:10.852 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+20:27:11.358 INFO  Venue: Zilker Park 
+20:27:11.360 INFO  City: Austin 
+20:27:11.380 INFO  10/04/2019 
+20:27:24.734 INFO  ===================================================================== 
+20:27:24.737 INFO  user command: concert-this   user arguments: metallica 
+20:27:24.739 INFO  https://rest.bandsintown.com/artists/metallica/events?app_id=codingbootcamp 
+20:27:25.600 INFO  Venue: Optus Stadium 
+20:27:25.603 INFO  City: Burswood 
+20:27:25.634 INFO  10/17/2019 
+20:27:48.245 INFO  ===================================================================== 
+20:27:48.248 INFO  user command: concert-this   user arguments: janet jackson 
+20:27:48.264 INFO  https://rest.bandsintown.com/artists/janet+jackson/events?app_id=codingbootcamp 
+20:27:48.705 INFO  Venue: Chase Center 
+20:27:48.707 INFO  City: San Francisco 
+20:27:48.726 INFO  09/21/2019 
+20:28:56.515 INFO  ===================================================================== 
+20:28:56.518 INFO  user command: concert-this   user arguments: A Tribe Called Quest 
+20:28:56.521 INFO  https://rest.bandsintown.com/artists/A+Tribe+Called+Quest/events?app_id=codingbootcamp 
+20:30:40.065 INFO  ===================================================================== 
+20:30:40.068 INFO  user command: concert-this   user arguments: the rolling stones 
+20:30:40.085 INFO  https://rest.bandsintown.com/artists/the+rolling+stones/events?app_id=codingbootcamp 
+20:31:45.703 INFO  ===================================================================== 
+20:31:45.707 INFO  user command: concert-this   user arguments: Thirty Seconds To Mars 
+20:31:45.725 INFO  https://rest.bandsintown.com/artists/Thirty+Seconds+To+Mars/events?app_id=codingbootcamp 
+20:33:07.020 INFO  ===================================================================== 
+20:33:07.035 INFO  user command: concert-this   user arguments: red hot chilly pepper 
+20:33:07.073 INFO  https://rest.bandsintown.com/artists/red+hot+chilly+pepper/events?app_id=codingbootcamp 
+20:35:56.734 INFO  ===================================================================== 
+20:35:56.737 INFO  user command: concert-this   user arguments: Australian Pink Floyd Show 
+20:35:56.740 INFO  https://rest.bandsintown.com/artists/Australian+Pink+Floyd+Show/events?app_id=codingbootcamp 
+20:35:57.406 INFO  Venue: Morrison Center For The Performing Arts 
+20:35:57.408 INFO  City: Boise 
+20:35:57.428 INFO  09/19/2019 
+20:45:11.795 INFO  ===================================================================== 
+20:45:11.798 INFO  user command: spotify-this-song   user arguments: beat it 
+20:45:12.535 INFO  Artist: Ace of Base 
+20:45:12.537 INFO  Song: The Sign 
+20:45:12.549 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+20:45:12.552 INFO  Album: The Sign (US Album) [Remastered] 
+20:46:46.455 INFO  ===================================================================== 
+20:46:46.459 INFO  user command: spotify-this-song   user arguments: beat it 
+20:46:47.085 INFO  Artist: Ace of Base 
+20:46:47.090 INFO  Song: The Sign 
+20:46:47.108 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+20:46:47.112 INFO  Album: The Sign (US Album) [Remastered] 
+20:47:57.816 INFO  ===================================================================== 
+20:47:57.819 INFO  user command: spotify-this-song   user arguments: beat it 
+20:47:58.492 INFO  Artist: Ace of Base 
+20:47:58.495 INFO  Song: The Sign 
+20:47:58.512 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+20:47:58.527 INFO  Album: The Sign (US Album) [Remastered] 
+20:49:10.166 INFO  ===================================================================== 
+20:49:10.169 INFO  user command: spotify-this-song   user arguments: beat it 
+20:49:10.849 INFO  Artist: Michael Jackson 
+20:49:10.851 INFO  Song: Beat It - Single Version 
+20:49:10.853 INFO  Preview Link: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+20:49:10.867 INFO  Album: Thriller 25 Super Deluxe Edition 
+20:49:21.530 INFO  ===================================================================== 
+20:49:21.537 INFO  user command: spotify-this-song   user arguments:  
+20:49:22.213 INFO  Artist: Ace of Base 
+20:49:22.215 INFO  Song: The Sign 
+20:49:22.218 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+20:49:22.231 INFO  Album: The Sign (US Album) [Remastered] 
+20:49:34.499 INFO  ===================================================================== 
+20:49:34.502 INFO  user command: spotify-this-song   user arguments: nast girl 
+20:49:35.049 INFO  NOTHING FOUND 
+20:49:42.196 INFO  ===================================================================== 
+20:49:42.199 INFO  user command: spotify-this-song   user arguments: nasty girl 
+20:49:42.885 INFO  Artist: The Notorious B.I.G. 
+20:49:42.887 INFO  Song: Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) 
+20:49:42.890 INFO  Preview Link: https://p.scdn.co/mp3-preview/df59fe8fd5ce40d7c5b53a0273ea49008cb63167?cid=82dd5f292e934394b2bba406f65b300b 
+20:49:42.906 INFO  Album: Duets: The Final Chapter 
+20:57:29.351 INFO  ===================================================================== 
+20:57:29.354 INFO  user command: spotify-this-song   user arguments: nasty girl 
+20:57:29.984 INFO  Artist: The Notorious B.I.G. 
+20:57:29.987 INFO  Song: Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) 
+20:57:29.988 INFO  Preview Link: https://p.scdn.co/mp3-preview/df59fe8fd5ce40d7c5b53a0273ea49008cb63167?cid=82dd5f292e934394b2bba406f65b300b 
+20:57:30.003 INFO  Album: Duets: The Final Chapter 
+20:58:06.746 INFO  ===================================================================== 
+20:58:07.875 INFO  user command: movie-this   user arguments: heat 
+20:58:08.226 INFO  Title: Heat 
+20:58:08.256 INFO  Year: 1995 
+20:58:08.282 INFO  Rated: 8.2 
+20:58:08.295 INFO  Rotten Tomatoes: 86% 
+20:58:08.434 INFO  Country: USA 
+20:58:08.532 INFO  Language: English, Spanish 
+20:58:08.558 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+20:58:08.606 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+20:58:19.661 INFO  ===================================================================== 
+20:58:19.664 INFO  user command: movie-this   user arguments:  
+20:58:19.899 INFO  Title: Mr. Nobody 
+20:58:19.903 INFO  Year: 2009 
+20:58:19.919 INFO  Rated: 7.8 
+20:58:19.923 INFO  Rotten Tomatoes: 66% 
+20:58:19.925 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+20:58:19.955 INFO  Language: English, Mohawk 
+20:58:19.983 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+20:58:19.988 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+20:58:30.937 INFO  ===================================================================== 
+20:58:30.940 INFO  user command: movie-this   user arguments: the firm 
+20:58:31.177 INFO  Title: The Firm 
+20:58:31.179 INFO  Year: 1993 
+20:58:31.181 INFO  Rated: 6.8 
+20:58:31.197 INFO  Rotten Tomatoes: 75% 
+20:58:31.199 INFO  Country: USA 
+20:58:31.202 INFO  Language: English 
+20:58:31.203 INFO  Plot: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side. 
+20:58:31.216 INFO  Actors: Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook 
+20:58:43.723 INFO  ===================================================================== 
+20:58:43.726 INFO  user command: movie-this   user arguments: three dog night 
+20:58:43.978 INFO  Title: Three Dog Night 
+20:58:43.985 INFO  Year: 2015 
+20:58:43.987 INFO  Rated: N/A 
+21:02:28.533 INFO  ===================================================================== 
+21:02:28.536 INFO  user command: concert-this   user arguments:  
+21:02:28.539 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+21:02:29.068 INFO  Venue: Zilker Park 
+21:02:29.070 INFO  City: Austin 
+21:02:29.105 INFO  10/04/2019 
+21:02:44.684 INFO  ===================================================================== 
+21:02:44.687 INFO  user command: concert-this   user arguments: janet jackson 
+21:02:44.703 INFO  https://rest.bandsintown.com/artists/janet+jackson/events?app_id=codingbootcamp 
+21:02:45.257 INFO  Venue: Chase Center 
+21:02:45.260 INFO  City: San Francisco 
+21:02:45.290 INFO  09/21/2019 
+21:03:11.677 INFO  ===================================================================== 
+21:03:11.680 INFO  user command: movie-this   user arguments:  
+21:03:11.915 INFO  Title: Mr. Nobody 
+21:03:11.918 INFO  Year: 2009 
+21:03:11.920 INFO  Rated: 7.8 
+21:03:11.933 INFO  Rotten Tomatoes: 66% 
+21:03:11.936 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+21:03:11.938 INFO  Language: English, Mohawk 
+21:03:11.940 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+21:03:11.962 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+21:03:22.538 INFO  ===================================================================== 
+21:03:22.540 INFO  user command: movie-this   user arguments: heat 
+21:03:22.730 INFO  Title: Heat 
+21:03:22.732 INFO  Year: 1995 
+21:03:22.734 INFO  Rated: 8.2 
+21:03:22.749 INFO  Rotten Tomatoes: 86% 
+21:03:22.752 INFO  Country: USA 
+21:03:22.754 INFO  Language: English, Spanish 
+21:03:22.756 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+21:03:22.770 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+21:03:40.061 INFO  ===================================================================== 
+21:03:40.064 INFO  user command: spotify-this-song   user arguments: beat it 
+21:03:40.660 INFO  Artist: Michael Jackson 
+21:03:40.662 INFO  Song: Beat It - Single Version 
+21:03:40.664 INFO  Preview Link: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+21:03:40.679 INFO  Album: Thriller 25 Super Deluxe Edition 
+21:03:47.071 INFO  ===================================================================== 
+21:03:47.074 INFO  user command: spotify-this-song   user arguments:  
+21:03:47.694 INFO  Artist: Ace of Base 
+21:03:47.696 INFO  Song: The Sign 
+21:03:47.698 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+21:03:47.713 INFO  Album: The Sign (US Album) [Remastered] 
+21:28:47.752 INFO  ===================================================================== 
+21:28:47.755 INFO  user command: spotify-this-song   user arguments:  
+21:28:48.371 INFO  Artist: Ace of Base 
+21:28:48.373 INFO  Song: The Sign 
+21:28:48.375 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+21:28:48.393 INFO  Album: The Sign (US Album) [Remastered] 
+21:29:14.525 INFO  ===================================================================== 
+21:29:14.528 INFO  user command: spotify-this-song   user arguments: all eyes on dre 
+21:29:15.060 INFO  NOTHING FOUND 
+21:29:22.474 INFO  ===================================================================== 
+21:29:22.477 INFO  user command: spotify-this-song   user arguments: all eyes on me 
+21:29:23.177 INFO  Artist: Or3o 
+21:29:23.179 INFO  Song: All Eyes on Me 
+21:29:23.193 INFO  Preview Link: https://p.scdn.co/mp3-preview/7c142591c29079a67f643287c1d4a21cf7736284?cid=82dd5f292e934394b2bba406f65b300b 
+21:29:23.197 INFO  Album: All Eyes on Me 
+21:29:45.972 INFO  ===================================================================== 
+21:29:45.975 INFO  user command: spotify-this-song   user arguments:  
+21:29:46.619 INFO  Artist: Ace of Base 
+21:29:46.621 INFO  Song: The Sign 
+21:29:46.623 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+21:29:46.637 INFO  Album: The Sign (US Album) [Remastered] 
