@@ -179,3 +179,34 @@
 21:29:46.621 INFO  Song: The Sign 
 21:29:46.623 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
 21:29:46.637 INFO  Album: The Sign (US Album) [Remastered] 
+16:45:06.807 INFO  ===================================================================== 
+16:45:06.810 INFO  user command: concert-this   user arguments:  
+16:45:06.813 INFO  https://rest.bandsintown.com/artists/Cardi B/events?app_id=codingbootcamp 
+16:45:07.403 INFO  Venue: Zilker Park 
+16:45:07.405 INFO  City: Austin 
+16:45:07.461 INFO  10/04/2019 
+16:45:32.781 INFO  ===================================================================== 
+16:45:32.783 INFO  user command: movie-this   user arguments:  
+16:45:33.015 INFO  Title: Mr. Nobody 
+16:45:33.017 INFO  Year: 2009 
+16:45:33.019 INFO  Rated: 7.8 
+16:45:33.059 INFO  Rotten Tomatoes: 66% 
+16:45:33.081 INFO  Country: Belgium, Germany, Canada, France, USA, UK 
+16:45:33.084 INFO  Language: English, Mohawk 
+16:45:33.087 INFO  Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+16:45:33.172 INFO  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+16:46:18.331 INFO  ===================================================================== 
+16:46:18.334 INFO  user command: do-what-it-says   user arguments:  
+16:46:18.429 INFO  spotify-this-song 
+16:46:18.452 INFO  "I Want it That Way"
+ 
+16:46:30.090 INFO  ===================================================================== 
+16:46:30.093 INFO  user command: movie-this   user arguments: heat 
+16:46:30.375 INFO  Title: Heat 
+16:46:30.377 INFO  Year: 1995 
+16:46:30.415 INFO  Rated: 8.2 
+16:46:30.417 INFO  Rotten Tomatoes: 86% 
+16:46:30.418 INFO  Country: USA 
+16:46:30.421 INFO  Language: English, Spanish 
+16:46:30.504 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
+16:46:30.584 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
