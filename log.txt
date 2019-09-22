@@ -210,3 +210,33 @@
 16:46:30.421 INFO  Language: English, Spanish 
 16:46:30.504 INFO  Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist. 
 16:46:30.584 INFO  Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight 
+16:55:09.978 INFO  ===================================================================== 
+16:55:09.981 INFO  user command: spotify-this-song   user arguments: on my own 
+16:55:10.630 INFO  Artist: Calum Scott 
+16:55:10.633 INFO  Song: Dancing On My Own 
+16:55:10.634 INFO  Preview Link: null 
+16:55:10.666 INFO  Album: Only Human (Deluxe) 
+16:55:36.406 INFO  ===================================================================== 
+16:55:36.412 INFO  user command: spotify-this-song   user arguments: night and day 
+16:55:37.037 INFO  Artist: Kid Cudi 
+16:55:37.039 INFO  Song: Day 'N' Nite (nightmare) 
+16:55:37.041 INFO  Preview Link: null 
+16:55:37.088 INFO  Album: Man On The Moon: The End Of Day 
+16:55:58.470 INFO  ===================================================================== 
+16:55:58.474 INFO  user command: spotify-this-song   user arguments: beat it 
+16:55:59.121 INFO  Artist: Michael Jackson 
+16:55:59.123 INFO  Song: Beat It - Single Version 
+16:55:59.125 INFO  Preview Link: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=82dd5f292e934394b2bba406f65b300b 
+16:55:59.160 INFO  Album: Thriller 25 Super Deluxe Edition 
+13:27:20.245 INFO  ===================================================================== 
+13:27:20.245 INFO  user command: spotify-this-song   user arguments: we are the world 
+13:27:20.792 INFO  Artist: U.S.A. For Africa 
+13:27:20.793 INFO  Song: We Are The World 
+13:27:20.796 INFO  Preview Link: https://p.scdn.co/mp3-preview/e2f94172ed84912b8be9c1297ab834b37de5fdf8?cid=82dd5f292e934394b2bba406f65b300b 
+13:27:20.796 INFO  Album: We Are The World 
+13:27:31.973 INFO  ===================================================================== 
+13:27:31.974 INFO  user command: spotify-this-song   user arguments:  
+13:27:32.414 INFO  Artist: Ace of Base 
+13:27:32.415 INFO  Song: The Sign 
+13:27:32.415 INFO  Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=82dd5f292e934394b2bba406f65b300b 
+13:27:32.415 INFO  Album: The Sign (US Album) [Remastered] 

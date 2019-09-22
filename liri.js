@@ -32,26 +32,26 @@ let inputChoice = process.argv[2];
 
 switch (inputChoice){
     case "concert-this":
-        logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
+        logToFile("=====================================================================");
+        logToFile("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         bandsInTown();
         break;
     
     case "spotify-this-song":
-        logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
+        logToFile("=====================================================================");
+        logToFile("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         songChoice();
         break;
     
     case "movie-this":
-        logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
+        logToFile("=====================================================================");
+        logToFile("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         movieChoice(userInput);
         break;
 
     case "do-what-it-says":
-        logOutput("=====================================================================");
-        logOutput("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
+        logToFile("=====================================================================");
+        logToFile("user command: " + userInput[2] + "   user arguments: " + process.argv.slice(3).join(" "));
         doWhatItSays();
         break;
 }
@@ -78,13 +78,13 @@ function bandsInTown(){
 
     let queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
     
-    logOutput(queryURL); 
+    logToFile(queryURL); 
 
     axios.get(queryURL).then(
         function(result){
-            logOutput("Venue: " + result.data[0].venue.name);
-            logOutput("City: " + result.data[0].venue.city);
-            logOutput(moment(result.data[0].datetime).format("MM/DD/YYYY"));
+            logToFile("Venue: " + result.data[0].venue.name);
+            logToFile("City: " + result.data[0].venue.city);
+            logToFile(moment(result.data[0].datetime).format("MM/DD/YYYY"));
         })
         .catch(function (error) {
             console.log("NOTHING FOUND");
@@ -116,12 +116,12 @@ function bandsInTown(){
 
     spotify.search({ type: 'track', query: songName  }, function(err, result) {
         if (err) {
-        return logOutput("NOTHING FOUND");
+        return logToFile("NOTHING FOUND");
         }
-        logOutput("Artist: " + result.tracks.items[0].artists[0].name);
-        logOutput("Song: " + result.tracks.items[0].name);
-        logOutput("Preview Link: " + result.tracks.items[0].preview_url);
-        logOutput("Album: " + result.tracks.items[0].album.name);
+        logToFile("Artist: " + result.tracks.items[0].artists[0].name);
+        logToFile("Song: " + result.tracks.items[0].name);
+        logToFile("Preview Link: " + result.tracks.items[0].preview_url);
+        logToFile("Album: " + result.tracks.items[0].album.name);
     });
 };
 
@@ -151,14 +151,14 @@ function movieChoice(){
     //send requests using the axios package
     axios.get(queryURL).then(
         function(result){
-            logOutput("Title: " + result.data.Title);
-            logOutput("Year: " + result.data.Year);
-            logOutput("Rated: " + result.data.imdbRating);
-            logOutput("Rotten Tomatoes: " + result.data.Ratings[1].Value);
-            logOutput("Country: " + result.data.Country);
-            logOutput("Language: " + result.data.Language);
-            logOutput("Plot: " + result.data.Plot);
-            logOutput("Actors: " + result.data.Actors);
+            logToFile("Title: " + result.data.Title);
+            logToFile("Year: " + result.data.Year);
+            logToFile("Rated: " + result.data.imdbRating);
+            logToFile("Rotten Tomatoes: " + result.data.Ratings[1].Value);
+            logToFile("Country: " + result.data.Country);
+            logToFile("Language: " + result.data.Language);
+            logToFile("Plot: " + result.data.Plot);
+            logToFile("Actors: " + result.data.Actors);
             
         })
         .catch(function (error) {
@@ -173,11 +173,11 @@ function doWhatItSays() {
 
     fs.readFile("random.txt", "utf8", function(error, data) {
       if (error) {
-        return logOutput(error);
+        return logToFile(error);
       }
         let output = data.split(",");
         for (let i = 0; i < output.length; i++) {
-            logOutput(output[i]);
+            logToFile(output[i]);
         }
       });
 };
@@ -185,9 +185,9 @@ function doWhatItSays() {
 
 //Logs data to the terminal and output to a text file called log.txt.
 
-function logOutput(logText) {
-	log.info(logText);
+function logToFile(logData) {
+	log.info(logData);
     let str = "---------------------";
     //Suppresses console logging users commands to terminal output, since users can see what they typed.
-    console.log(logText.replace(/^user command.*$\n?/gm, ''));
+    console.log(logData.replace(/^user command.*$\n?/gm, ''));
 }
